@@ -87,5 +87,28 @@ Quem pode atuar como perito criminal oficial?;Servidor público concursado, de n
 Como a perícia civil é definida no Código de Processo Civil?;Prova pericial, entendida como exame, vistoria ou avaliação, determinada de ofício pelo juiz ou a requerimento das partes (art. 464, CPC).
 Quais são os requisitos para nomeação de perito em ação cível?;Juiz nomeia profissional especializado; este deve comprovar, em até cinco dias, habilitação técnica ou científica na área (art. 465, § 2º, CPC).
 Qual a finalidade da perícia civil?;Fornecer subsídio técnico-científico ao juízo em litígios cíveis (contratos, acidentes, inventários etc.), fundamentando decisões com rigor analítico.
+Pergunta;Resposta
+Qual a definição de Vestígio conforme o Código de Processo Penal?;Conforme o art. 158-A, §3º do CPP, vestígio é todo objeto ou material bruto, visível ou latente, constatado ou recolhido, que se relaciona à infração penal. É o elemento em seu estado original, antes de qualquer análise pericial.
+O que diferencia a Evidência do Vestígio?;A evidência surge a partir da análise científica do vestígio. Quando um perito examina um vestígio e, por meio de métodos técnicos e científicos, constata sua relação com o fato investigado, esse vestígio se torna uma evidência. Ou seja, é o vestígio processado e interpretado cientificamente com valor probatório.
+Como o Código de Processo Penal define Indício?;De acordo com o artigo 239 do CPP, considera-se indício a circunstância conhecida e provada que, tendo relação com o fato, autorize, por indução, concluir-se a existência de outra ou outras circunstâncias. É um elemento de prova indireta.
+Cite três exemplos de Vestígios.;Uma mancha de sangue; uma impressão digital; um projétil de arma de fogo; um fio de cabelo; um documento.
+Cite dois exemplos de Evidências.;O laudo pericial que confirma que a mancha de sangue encontrada no local do crime pertence à vítima; a identificação de uma impressão digital no objeto como sendo do suspeito; a constatação de que o projétil foi disparado pela arma apreendida.
+Forneça dois exemplos de Indícios.;O fato de o suspeito ter sido visto próximo ao local do crime pouco antes do ocorrido; a fuga do suspeito após o delito; a posse injustificada de bens subtraídos da vítima.
+Qual a natureza do Vestígio?;Material bruto, objeto físico.
+Qual a natureza da Evidência?;Vestígio analisado e interpretado cientificamente.
+Qual a natureza do Indício?;Circunstância conhecida e provada que leva a uma conclusão por indução.
+Qual o estado de um Vestígio?;Não examinado ou interpretado pericialmente.
+Qual o estado de uma Evidência?;Examinado e com relevância probatória demonstrada cientificamente.
+Qual o estado de um Indício?;Fato secundário que sugere um fato principal.
+Qual a origem de um Vestígio?;Local do crime, corpo de delito, etc.
+Qual a origem de uma Evidência?;Análise pericial do vestígio.
+Qual a origem de um Indício?;Raciocínio lógico-dedutivo a partir de fatos provados.
+Qual o valor de um Vestígio?;Potencial probatório a ser confirmado.
+Qual o valor de uma Evidência?;Prova técnica, científica.
+Qual o valor de um Indício?;Prova indireta, circunstancial.
+Qual a importância da Cadeia de Custódia em relação aos Vestígios e Evidências, especialmente para a banca Cebraspe?;A Cadeia de Custódia (art. 158-A e seguintes do CPP) é fundamental para garantir a idoneidade do vestígio e, consequentemente, da evidência, sendo um tema frequentemente cobrado pela Cebraspe para assegurar a validade da prova.
+Pode ocorrer uma condenação criminal baseada apenas em Indícios?;Sim, a jurisprudência dos tribunais superiores admite a condenação baseada em indícios, desde que sejam múltiplos, veementes e convergentes, e que o raciocínio lógico construído a partir deles seja robusto.
+Qual a principal diferença entre Vestígio e Evidência em termos de análise?;O vestígio é o material bruto antes da análise, enquanto a evidência é o resultado da análise técnico-científica desse vestígio, que lhe confere valor probatório.
+Qual a principal diferença entre Evidência e Indício em termos de prova?;A evidência é uma prova técnica, geralmente direta ou material, resultante da análise científica de um vestígio. O indício é uma prova indireta, uma circunstância que, por dedução lógica, sugere a ocorrência de um fato principal ou sua autoria.
 Quais elementos devem constar em um laudo pericial civil?;Descrição do objeto, métodos empregados, análise detalhada dos resultados e respostas fundamentadas a todos os quesitos formulados pelas partes (art. 473, CPC).
 Qual a principal diferença entre a perícia criminal e a perícia civil?;A perícia criminal está ligada à elucidação de crimes e é disciplinada pelo Código de Processo Penal, enquanto a perícia civil está relacionada a disputas de natureza diversa e é regida pelo Código de Processo Civil.
