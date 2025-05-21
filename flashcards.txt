@@ -1,0 +1,77 @@
+O que são Ciências Forenses?;Conjunto interdisciplinar de métodos e técnicas científicas aplicadas a investigações jurídicas para fornecer suporte objetivo ao Judiciário
+
+Qual a definição de Criminalística?;Disciplina que estuda o reconhecimento e interpretação de indícios materiais extrínsecos relacionados ao crime e ao autor
+
+O que é Perícia Criminal?;Atividade técnico-científica oficial prevista no Código de Processo Penal para exame de vestígios e produção de laudo pericial
+
+Qual artigo do Código de Processo Penal regula o exame de corpo de delito?;Artigo 158
+
+Quais são os objetivos principais da Criminalística?;Comprovar materialidade do fato, reconstruir dinâmica do evento e identificar autoria
+
+Como as Ciências Forenses, Criminalística e Perícia Criminal se relacionam?;Ciências Forenses fornecem a base teórica, Criminalística aplica métodos em laboratório e cena de crime, Perícia formaliza resultados para o Judiciário
+
+O que caracteriza um vestígio extrínseco em Criminalística?;Qualquer resto material (pó, fibra, mancha de sangue, impressão digital etc.) deixado na cena do crime
+
+Quem realiza a Perícia Criminal?;Peritos criminais, profissionais do Estado habilitados para exame pericial
+
+Qual a importância da cadeia de custódia?;Garantir a integridade e validade jurídica dos vestígios apreendidos
+
+O que é Cadeia de Custódia?;Procedimento que assegura a integridade e rastreabilidade dos vestígios desde a coleta até a apresentação em juízo
+
+Qual a finalidade da Análise de Local de Crime?;Reconstituir a dinâmica do delito por meio de observação e registro de vestígios na cena do crime
+
+O que define um Vestígio Primário?;Vestígio encontrado diretamente no local do fato, sem ter sido alterado por terceiros
+
+O que é Vestígio Secundário?;Vestígio que foi transferido ou alterado após o crime, podendo vir de outro local
+
+Qual o conceito de Perito?;Profissional oficial, de nível superior, habilitado para realizar exames periciais e elaborar laudos
+
+O que é Assistência Técnica?;Atuação de perito nomeado por partes (defesa ou acusação) para produzir parecer técnico
+
+Em que artigo do CPP está prevista a perícia por assistente técnico?;Artigo 7º, §2º
+
+Qual a diferença entre Laudo e Parecer?;Laudo é documento oficial assinado pelo perito; parecer é opinião técnica apresentada por assistente
+
+O que é Exame de Corpo de Delito?;Perícia que comprova lesões físicas ou estado de saúde da vítima
+
+Qual instituto cria o padrão para análise antropométrica?;Franz von Liszt (teoria inicial) e Bertillon (método antropométrico)
+
+O que é Antropologia Forense?;Ramo da Criminalística que estuda vestígios ósseos para identificação humana
+
+Para que serve a Identificação Papiloscópica?;Análise de impressões digitais para identificar autores de crimes
+
+O que analisa a Criminalística Veicular?;Vestígios e configurações de acidentes de trânsito para determinar causas e responsabilidades
+
+Qual a área de atuação da Toxicologia Forense?;Identificação de substâncias tóxicas no organismo em casos de envenenamento ou acidentes
+
+O que é Balística Forense?;Estudo de projéteis e armas de fogo para relacionar munições, armas e locais de disparo
+
+Qual a função da Exame de Documentos?;Verificar autenticidade e autoria de papéis, assinaturas e indícios de fraude documental
+
+O que é a Teoria das Três Linhas de Investigação?;Metodologia que aborda a dinâmica da ação, a dinâmica do indivíduo e dos vestígios materiais
+
+Qual norma internacional padroniza procedimentos forenses?;ISO 17025 – Requisitos gerais para competência de laboratórios de ensaio
+
+O que significa “Princípio da Parcimônia”?;Aplicar método mais simples e seguro para investigação de vestígios
+
+O que é a Técnica de Comparação?;Confrontar vestígio desconhecido com padrão conhecido para estabelecer similaridade
+
+Para que serve o Exame de Maculatura?;Analisar rasuras, sobras de tinta e papel subjacente em documentos
+
+O que estuda a Odontologia Forense?;Identificação de vítimas e análise de mordidas a partir de arcadas dentárias
+
+O que é Perfil Genético?;Conjunto de marcadores de DNA usado para identificar indivíduos
+
+Qual o papel do Perito Criminal no processo penal?;Subsidiar o juiz com elementos técnicos para formação de convencimento, sem substituir sua função decisória
+
+O que é o Princípio da Objetividade Científica?;Atuação do perito deve se basear em métodos reconhecidos, sem influência de opiniões pessoais
+
+Em que momento a perícia deve ser realizada?;Antes de qualquer modificação no local do crime, salvo urgência justificada
+
+O que caracteriza a Criminalística Ambiental?;Investigação de ilícitos contra o meio ambiente, coletando amostras de água, solo e ar
+
+O que é o Relatório Pericial?;Documento que sintetiza métodos, resultados e conclusões de exame técnico
+
+O que significa “Materialidade do Fato”?;Comprovação da existência do crime por meio de provas materiais
+
+Qual a importância do Registro Fotográfico na cena do crime?;Documentar vestígios e posição de objetos para análise e comparação posterior

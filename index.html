@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flashcards</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; max-width: 600px; margin: auto; }
+    #card { border: 2px solid #444; padding: 1rem; border-radius: 8px; }
+    #pergunta { font-weight: bold; margin-bottom: 1rem; }
+    #resposta { color: #096; display: none; margin-top: 1rem; }
+    button { margin-right: .5rem; }
+  </style>
+</head>
+<body>
+
+  <div id="card">
+    <div id="pergunta">Carregando...</div>
+    <div id="resposta"></div>
+  </div>
+  <p>
+    <button id="mostrar">Mostrar resposta</button>
+    <button id="proximo">Próximo</button>
+  </p>
+
+  <script>
+    let flashcards = [];
+    let idx = 0;
+
+    // 1. Busca o arquivo do próprio repo
+	fetch('flashcards.txt')
+	  .then(r => r.ok ? r.text() : Promise.reject('Erro ao carregar'))
+	  .then(text => {
+		flashcards = text
+		  .split('\n')
+		  .map(l => l.trim())
+		  .filter(l => l && l.includes(';'))
+		  .map(l => {
+			const sep = l.indexOf(';');
+			const pergunta = l.slice(0, sep);
+			const resposta = l.slice(sep + 1);
+			return [pergunta, resposta];
+		  });
+		mostrarFlashcard();
+	  })
+	  .catch(err => {
+		document.getElementById('pergunta').textContent = err;
+	  });
+   
+
+    function mostrarFlashcard() {
+      if (!flashcards.length) return;
+      idx = Math.floor(Math.random() * flashcards.length);
+      const [q, a] = flashcards[idx];
+      document.getElementById('pergunta').textContent = q;
+      const respEl = document.getElementById('resposta');
+      respEl.textContent = a;
+      respEl.style.display = 'none';
+    }
+
+    document.getElementById('mostrar').addEventListener('click', () => {
+      document.getElementById('resposta').style.display = 'block';
+    });
+    document.getElementById('proximo').addEventListener('click', mostrarFlashcard);
+  </script>
+</body>
+</html>
