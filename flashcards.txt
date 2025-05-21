@@ -75,3 +75,16 @@ O que é o Relatório Pericial?;Documento que sintetiza métodos, resultados e c
 O que significa “Materialidade do Fato”?;Comprovação da existência do crime por meio de provas materiais
 
 Qual a importância do Registro Fotográfico na cena do crime?;Documentar vestígios e posição de objetos para análise e comparação posterior
+
+O que é Criminalística?;Disciplina técnico-científica voltada ao estudo e interpretação de vestígios materiais deixados por crimes, com o objetivo de fornecer provas técnicas confiáveis às autoridades judiciais.
+Quem é considerado o “pai da Criminalística” e qual sua contribuição principal?;Hans Gross, que em 1893 sistematizou os métodos de investigação científica do crime, integrando conhecimentos de química, física e biologia à análise de vestígios.
+Qual a definição de indício material extrínseco segundo José Del Picchia?;Vestígio deixado no local do crime ou no corpo da vítima, cujo reconhecimento e interpretação auxiliam na elucidação de infrações penais.
+Quais são os principais objetivos da Criminalística?;Identificar, coletar, analisar e interpretar vestígios materiais; subsidiar decisões judiciais; assegurar rigor científico e isenção nas investigações criminais.
+O que estabelece o art. 158 do Código de Processo Penal?;Determina que, sempre que a infração deixar vestígios, é indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado.
+Qual a diferença entre exame de corpo de delito direto e indireto?;Direto: perito analisa fisicamente o vestígio; Indireto: análise por meio de fotos, laudos anteriores ou depoimentos de testemunhas.
+Quais áreas de expertise podem compor uma perícia criminal?;Balística forense, papiloscopia, genética forense (DNA), documentoscopia, informática forense, química e biologia forenses.
+Quem pode atuar como perito criminal oficial?;Servidor público concursado, de nível superior, com diploma compatível à especialidade, nomeado conforme Lei 12.030/2009.
+Como a perícia civil é definida no Código de Processo Civil?;Prova pericial, entendida como exame, vistoria ou avaliação, determinada de ofício pelo juiz ou a requerimento das partes (art. 464, CPC).
+Quais são os requisitos para nomeação de perito em ação cível?;Juiz nomeia profissional especializado; este deve comprovar, em até cinco dias, habilitação técnica ou científica na área (art. 465, § 2º, CPC).
+Qual a finalidade da perícia civil?;Fornecer subsídio técnico-científico ao juízo em litígios cíveis (contratos, acidentes, inventários etc.), fundamentando decisões com rigor analítico.
+Quais elementos devem constar em um laudo pericial civil?;Descrição do objeto, métodos empregados, análise detalhada dos resultados e respostas fundamentadas a todos os quesitos formulados pelas partes (art. 473, CPC).
