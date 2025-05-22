@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flashcard Tests</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; }
+        #test-results div { margin-bottom: 8px; padding: 5px; border-radius: 4px; }
+        .pass { background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .fail { background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+        #test-sandbox { display: none; } /* Keep mock DOM hidden */
+    </style>
+</head>
+<body>
+    <h1>Flashcard JavaScript Tests</h1>
+    <div id="test-results"></div>
+    <div id="test-sandbox">
+        <div id="pergunta">Mock Pergunta</div>
+        <div id="resposta">Mock Resposta</div>
+    </div>
+
+    <!-- Include script.js AFTER the sandbox elements are defined, so it can potentially find them if not mocked -->
+    <script src="script.js"></script>
+
+    <script>
+        const testResultsDiv = document.getElementById('test-results');
+        let testsPassed = 0;
+        let testsFailed = 0;
+
+        function assertEquals(actual, expected, message) {
+            const resultDiv = document.createElement('div');
+            if (actual === expected) {
+                resultDiv.textContent = `PASS: ${message}`;
+                resultDiv.className = 'pass';
+                testsPassed++;
+            } else {
+                resultDiv.textContent = `FAIL: ${message} (Expected: "${expected}", Got: "${actual}")`;
+                resultDiv.className = 'fail';
+                testsFailed++;
+            }
+            testResultsDiv.appendChild(resultDiv);
+        }
+
+        function assertArraysEqual(actual, expected, message) {
+            const resultDiv = document.createElement('div');
+            let pass = actual.length === expected.length && actual.every((val, index) => val === expected[index]);
+            if (pass) {
+                resultDiv.textContent = `PASS: ${message}`;
+                resultDiv.className = 'pass';
+                testsPassed++;
+            } else {
+                resultDiv.textContent = `FAIL: ${message} (Expected: [${expected.join(', ')}], Got: [${actual.join(', ')}])`;
+                resultDiv.className = 'fail';
+                testsFailed++;
+            }
+            testResultsDiv.appendChild(resultDiv);
+        }
+
+        function assertNotEquals(actual, expected, message) {
+            const resultDiv = document.createElement('div');
+            if (actual !== expected) {
+                resultDiv.textContent = `PASS: ${message}`;
+                resultDiv.className = 'pass';
+                testsPassed++;
+            } else {
+                resultDiv.textContent = `FAIL: ${message} (Expected not to be: "${expected}", Got: "${actual}")`;
+                resultDiv.className = 'fail';
+                testsFailed++;
+            }
+            testResultsDiv.appendChild(resultDiv);
+        }
+        
+        function assertNotArraysEqual(actual, expected, message) {
+            const resultDiv = document.createElement('div');
+            let pass = actual.length !== expected.length || actual.some((val, index) => val !== expected[index]);
+            if (pass) {
+                resultDiv.textContent = `PASS: ${message}`;
+                resultDiv.className = 'pass';
+                testsPassed++;
+            } else {
+                resultDiv.textContent = `FAIL: ${message} (Expected not to be: [${expected.join(', ')}], Got: [${actual.join(', ')}])`;
+                resultDiv.className = 'fail';
+                testsFailed++;
+            }
+            testResultsDiv.appendChild(resultDiv);
+        }
+
+
+        function runTests() {
+            // --- Test Data ---
+            // Manually define flashcards data for tests to avoid fetch dependency
+            // This also means we don't need to call the fetch part of script.js
+            flashcards = [
+                ["Q1", "A1"],
+                ["Q2", "A2"],
+                ["Q3", "A3"],
+                ["Q4", "A4"]
+            ];
+            // `remaining` will be set by shuffle or mostrarFlashcard tests
+
+            // --- `shuffle()` tests ---
+            const originalArray = [1, 2, 3, 4, 5];
+            const shuffledArray = shuffle(originalArray.slice()); // Use slice to avoid modifying original
+
+            assertEquals(shuffledArray.length, originalArray.length, "shuffle: should return an array of the same length");
+
+            // To check for same elements, sort both and compare
+            const sortedOriginal = originalArray.slice().sort();
+            const sortedShuffled = shuffledArray.slice().sort();
+            assertArraysEqual(sortedShuffled, sortedOriginal, "shuffle: should contain the same elements");
+
+            // Test that it shuffles (order is different) - this is probabilistic
+            // For a small array, it might occasionally return the same order.
+            // A more robust test would run it multiple times or check against multiple known shuffles.
+            // For simplicity, we'll do a direct comparison. It might fail rarely for [1,2] for example.
+            if (originalArray.length > 1) { // Only makes sense if array has more than one element
+                 assertNotArraysEqual(shuffledArray, originalArray, "shuffle: should change the order of elements (probabilistic)");
+            }
+            
+            const singleElementArray = ["A"];
+            const shuffledSingle = shuffle(singleElementArray.slice());
+            assertArraysEqual(shuffledSingle, singleElementArray, "shuffle: should handle single-element arrays correctly");
+
+            const emptyArray = [];
+            const shuffledEmpty = shuffle(emptyArray.slice());
+            assertArraysEqual(shuffledEmpty, emptyArray, "shuffle: should handle empty arrays correctly");
+
+
+            // --- `mostrarFlashcard()` tests ---
+            // Mock document.getElementById to return our sandbox elements
+            const originalGetElementById = document.getElementById;
+            document.getElementById = (id) => {
+                if (id === 'pergunta') return document.querySelector('#test-sandbox #pergunta');
+                if (id === 'resposta') return document.querySelector('#test-sandbox #resposta');
+                return originalGetElementById.call(document, id); // Fallback for other IDs if any
+            };
+
+            // Test 1: Basic display
+            remaining = shuffle(flashcards.slice()); // Initialize remaining cards
+            const firstCard = remaining[remaining.length - 1]; // Peek at what should be displayed
+            mostrarFlashcard();
+            assertEquals(document.getElementById('pergunta').textContent, firstCard[0], "mostrarFlashcard: should display the question");
+            assertEquals(document.getElementById('resposta').textContent, firstCard[1], "mostrarFlashcard: should set the answer text");
+            assertEquals(document.getElementById('resposta').style.display, "none", "mostrarFlashcard: should initially hide the answer");
+
+            // Test 2: Re-shuffling when 'remaining' is empty
+            remaining = []; // Manually empty 'remaining'
+            mostrarFlashcard(); // This should trigger re-shuffling
+            assertEquals(remaining.length, flashcards.length - 1, "mostrarFlashcard: should re-shuffle and populate 'remaining' when empty, then pop one");
+            // Check if a card is displayed (hard to predict which one, but should not be empty or error)
+            const questionAfterReshuffle = document.getElementById('pergunta').textContent;
+            let isValidQuestion = flashcards.some(fc => fc[0] === questionAfterReshuffle);
+            assertEquals(isValidQuestion, true, "mostrarFlashcard: should display a valid question after re-shuffling");
+
+
+            // Restore original getElementById
+            document.getElementById = originalGetElementById;
+
+            // --- Summary ---
+            const summaryDiv = document.createElement('div');
+            summaryDiv.innerHTML = `<strong>Test Summary: ${testsPassed} passed, ${testsFailed} failed.</strong>`;
+            testResultsDiv.insertBefore(summaryDiv, testResultsDiv.firstChild);
+        }
+
+        // Run tests when the page loads
+        window.onload = runTests;
+    </script>
+</body>
+</html>
