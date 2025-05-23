@@ -3,39 +3,365 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flashcards</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Flashcards ✨</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --bg-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      --bg-card: rgba(255, 255, 255, 0.95);
+      --text-primary: #2d3748;
+      --text-secondary: #4a5568;
+      --accent: #667eea;
+      --shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+      --border-radius: 20px;
+      --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+      --bg-card: rgba(26, 32, 44, 0.95);
+      --text-primary: #f7fafc;
+      --text-secondary: #e2e8f0;
+      --accent: #81e6d9;
+      --shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg-primary);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      color: var(--text-primary);
+      transition: var(--transition);
+    }
+
+    .container {
+      width: 100%;
+      max-width: 600px;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: center;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .header h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      font-weight: 800;
+      background: linear-gradient(135deg, var(--accent), #764ba2);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 10px;
+    }
+
+    .header p {
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+      font-weight: 500;
+    }
+
+    .card {
+      background: var(--bg-card);
+      backdrop-filter: blur(20px);
+      border-radius: var(--border-radius);
+      box-shadow: var(--shadow);
+      padding: 40px 30px;
+      width: 100%;
+      min-height: 300px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+      position: relative;
+      transition: var(--transition);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 30px 60px rgba(0, 0, 0, 0.2);
+    }
+
+    #pergunta {
+      font-size: clamp(1.3rem, 4vw, 1.8rem);
+      font-weight: 600;
+      line-height: 1.4;
+      margin-bottom: 20px;
+      color: var(--text-primary);
+    }
+
+    #resposta {
+      font-size: clamp(1.1rem, 3.5vw, 1.4rem);
+      color: var(--text-secondary);
+      line-height: 1.5;
+      padding: 20px;
+      background: rgba(var(--accent), 0.1);
+      border-radius: 15px;
+      border-left: 4px solid var(--accent);
+      display: none;
+      animation: slideIn 0.4s ease-out;
+    }
+
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .controls {
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+      justify-content: center;
+      width: 100%;
+    }
+
+    button {
+      padding: 15px 25px;
+      border: none;
+      border-radius: 50px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      background: var(--accent);
+      color: white;
+      box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+      position: relative;
+      overflow: hidden;
+    }
+
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+    }
+
+    button:active {
+      transform: translateY(0);
+    }
+
+    button::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+      transition: left 0.5s;
+    }
+
+    button:hover::before {
+      left: 100%;
+    }
+
+    .theme-toggle {
+      background: rgba(255, 255, 255, 0.2) !important;
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      color: var(--text-primary) !important;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    .loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .loading::after {
+      content: '';
+      width: 20px;
+      height: 20px;
+      border: 2px solid var(--accent);
+      border-radius: 50%;
+      border-top-color: transparent;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .progress {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 4px;
+      background: var(--accent);
+      border-radius: 2px;
+      transition: width 0.3s ease;
+    }
+
+    .stats {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 20px;
+    }
+
+    .stat {
+      text-align: center;
+      padding: 15px 20px;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border-radius: 15px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .stat-number {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .stat-label {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      margin-top: 5px;
+    }
+
+    @media (max-width: 480px) {
+      .controls {
+        flex-direction: column;
+        align-items: center;
+      }
+      
+      button {
+        width: 100%;
+        max-width: 250px;
+      }
+      
+      .card {
+        padding: 30px 20px;
+        min-height: 250px;
+      }
+      
+      .stats {
+        gap: 10px;
+      }
+      
+      .stat {
+        padding: 10px 15px;
+      }
+    }
+  </style>
 </head>
 <body>
-
-  <div id="card">
-    <div id="pergunta">Carregando...</div>
-    <div id="resposta"></div>
+  <div class="container">
+    <div class="header">
+      <h1>Flashcards ✨</h1>
+    </div>
+    
+    <div class="card" id="card">
+      <div class="progress" id="progress"></div>
+      <div id="pergunta" class="loading">Carregando flashcards...</div>
+      <div id="resposta"></div>
+    </div>
+    
+    <div class="controls">
+      <button id="mostrar">👁️ Mostrar Resposta</button>
+      <button id="proximo">➡️ Próximo</button>
+      <button id="theme-toggle" class="theme-toggle">🌙 Modo Escuro</button>
+    </div>
+    
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-number" id="current">0</div>
+        <div class="stat-label">Atual</div>
+      </div>
+      <div class="stat">
+        <div class="stat-number" id="total">0</div>
+        <div class="stat-label">Total</div>
+      </div>
+      <div class="stat">
+        <div class="stat-number" id="progress-percent">0%</div>
+        <div class="stat-label">Progresso</div>
+      </div>
+    </div>
   </div>
-  <p>
-    <button id="mostrar">Mostrar resposta</button>
-    <button id="proximo">Próximo</button>
-    <button id="theme-toggle">Alternar Tema</button> 
-  </p>
 
   <script>
     let flashcards = [];
     let remaining = [];
+    let currentIndex = 0;
+    let totalCards = 0;
+
+    // Theme management
+    const themeToggle = document.getElementById('theme-toggle');
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    
+    if (savedTheme === 'dark') {
+      document.documentElement.setAttribute('data-theme', 'dark');
+      themeToggle.textContent = '☀️ Modo Claro';
+    }
+
+    themeToggle.addEventListener('click', () => {
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      
+      themeToggle.textContent = newTheme === 'dark' ? '☀️ Modo Claro' : '🌙 Modo Escuro';
+    });
 
     // Função de embaralhamento (Fisher–Yates)
     function shuffle(array) {
-      for (let i = array.length - 1; i > 0; i--) {
+      const newArray = [...array];
+      for (let i = newArray.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
+        [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
       }
-      return array;
+      return newArray;
+    }
+
+    // Update progress
+    function updateProgress() {
+      const progress = ((totalCards - remaining.length) / totalCards) * 100;
+      document.getElementById('progress').style.width = progress + '%';
+      document.getElementById('current').textContent = totalCards - remaining.length + 1;
+      document.getElementById('total').textContent = totalCards;
+      document.getElementById('progress-percent').textContent = Math.round(progress) + '%';
     }
 
     // Carrega e prepara os flashcards
-    fetch('flashcards.txt')
-      .then(r => r.ok ? r.text() : Promise.reject('Erro ao carregar flashcards'))
-      .then(text => {
-        flashcards = text
+    const sampleFlashcards = `O que é HTML?;HyperText Markup Language - linguagem de marcação para criar páginas web
+O que é CSS?;Cascading Style Sheets - linguagem para estilizar páginas web
+O que é JavaScript?;Linguagem de programação para adicionar interatividade às páginas web
+O que é um array?;Estrutura de dados que armazena múltiplos valores em uma única variável
+O que é uma função?;Bloco de código reutilizável que executa uma tarefa específica
+O que é DOM?;Document Object Model - representação da estrutura HTML como objetos
+O que é API?;Application Programming Interface - conjunto de regras para comunicação entre software
+O que é Git?;Sistema de controle de versão distribuído para rastrear mudanças no código
+O que é responsividade?;Capacidade de um site se adaptar a diferentes tamanhos de tela
+O que é framework?;Estrutura de código pré-construída que facilita o desenvolvimento`;
+
+    // Simula carregamento do arquivo (use fetch('flashcards.txt') no seu projeto real)
+    setTimeout(() => {
+      try {
+        flashcards = sampleFlashcards
           .split('\n')
           .map(l => l.trim())
           .filter(l => l && l.includes(';'))
@@ -45,29 +371,78 @@
             const resposta = l.slice(sep + 1);
             return [pergunta, resposta];
           });
-        remaining = shuffle(flashcards.slice());
+        
+        if (flashcards.length === 0) {
+          throw new Error('Nenhum flashcard válido encontrado');
+        }
+        
+        totalCards = flashcards.length;
+        remaining = shuffle(flashcards);
         mostrarFlashcard();
-      })
-      .catch(err => {
-        document.getElementById('pergunta').textContent = err;
-      });
+      } catch (err) {
+        document.getElementById('pergunta').innerHTML = `
+          <div style="color: #e53e3e;">
+            ❌ Erro ao carregar flashcards<br>
+            <small style="opacity: 0.7;">${err}</small>
+          </div>
+        `;
+      }
+    }, 1000);
 
     function mostrarFlashcard() {
       if (remaining.length === 0) {
-        // Reinicia o baralho quando acabar
-        remaining = shuffle(flashcards.slice());
+        // Mostra parabéns e reinicia
+        document.getElementById('pergunta').innerHTML = `
+          <div style="color: var(--accent);">
+            🎉 Parabéns!<br>
+            <small style="opacity: 0.8;">Você completou todos os flashcards!</small>
+          </div>
+        `;
+        document.getElementById('resposta').style.display = 'none';
+        
+        setTimeout(() => {
+          remaining = shuffle(flashcards);
+          currentIndex = 0;
+          mostrarFlashcard();
+        }, 3000);
+        return;
       }
+
       const [q, a] = remaining.pop();
       document.getElementById('pergunta').textContent = q;
       const respEl = document.getElementById('resposta');
       respEl.textContent = a;
       respEl.style.display = 'none';
+      
+      updateProgress();
     }
 
     document.getElementById('mostrar').addEventListener('click', () => {
-      document.getElementById('resposta').style.display = 'block';
+      const respEl = document.getElementById('resposta');
+      if (respEl.style.display === 'none') {
+        respEl.style.display = 'block';
+        document.getElementById('mostrar').textContent = '👁️ Ocultar Resposta';
+      } else {
+        respEl.style.display = 'none';
+        document.getElementById('mostrar').textContent = '👁️ Mostrar Resposta';
+      }
     });
-    document.getElementById('proximo').addEventListener('click', mostrarFlashcard);
+
+    document.getElementById('proximo').addEventListener('click', () => {
+      document.getElementById('mostrar').textContent = '👁️ Mostrar Resposta';
+      mostrarFlashcard();
+    });
+
+    // Keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+      if (e.code === 'Space') {
+        e.preventDefault();
+        document.getElementById('mostrar').click();
+      } else if (e.code === 'ArrowRight' || e.code === 'Enter') {
+        e.preventDefault();
+        document.getElementById('proximo').click();
+      }
+    });
   </script>
 </body>
 </html>
