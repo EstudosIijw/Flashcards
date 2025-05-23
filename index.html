@@ -272,6 +272,7 @@
   <div class="container">
     <div class="header">
       <h1>Flashcards ✨</h1>
+      <p>Aprenda de forma inteligente</p>
     </div>
     
     <div class="card" id="card">
@@ -347,47 +348,49 @@
     }
 
     // Carrega e prepara os flashcards
-    const sampleFlashcards = `O que é HTML?;HyperText Markup Language - linguagem de marcação para criar páginas web
-O que é CSS?;Cascading Style Sheets - linguagem para estilizar páginas web
-O que é JavaScript?;Linguagem de programação para adicionar interatividade às páginas web
-O que é um array?;Estrutura de dados que armazena múltiplos valores em uma única variável
-O que é uma função?;Bloco de código reutilizável que executa uma tarefa específica
-O que é DOM?;Document Object Model - representação da estrutura HTML como objetos
-O que é API?;Application Programming Interface - conjunto de regras para comunicação entre software
-O que é Git?;Sistema de controle de versão distribuído para rastrear mudanças no código
-O que é responsividade?;Capacidade de um site se adaptar a diferentes tamanhos de tela
-O que é framework?;Estrutura de código pré-construída que facilita o desenvolvimento`;
-
-    // Simula carregamento do arquivo (use fetch('flashcards.txt') no seu projeto real)
-    setTimeout(() => {
-      try {
-        flashcards = sampleFlashcards
-          .split('\n')
-          .map(l => l.trim())
-          .filter(l => l && l.includes(';'))
-          .map(l => {
-            const sep = l.indexOf(';');
-            const pergunta = l.slice(0, sep);
-            const resposta = l.slice(sep + 1);
-            return [pergunta, resposta];
-          });
-        
-        if (flashcards.length === 0) {
-          throw new Error('Nenhum flashcard válido encontrado');
+    fetch('flashcards.txt')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`Erro HTTP: ${response.status} - Verifique se o arquivo 'flashcards.txt' existe no repositório`);
         }
-        
-        totalCards = flashcards.length;
-        remaining = shuffle(flashcards);
-        mostrarFlashcard();
-      } catch (err) {
+        return response.text();
+      })
+      .then(text => {
+        try {
+          flashcards = text
+            .split('\n')
+            .map(l => l.trim())
+            .filter(l => l && l.includes(';'))
+            .map(l => {
+              const sep = l.indexOf(';');
+              const pergunta = l.slice(0, sep).trim();
+              const resposta = l.slice(sep + 1).trim();
+              return [pergunta, resposta];
+            });
+          
+          if (flashcards.length === 0) {
+            throw new Error('Nenhum flashcard válido encontrado no arquivo');
+          }
+          
+          totalCards = flashcards.length;
+          remaining = shuffle(flashcards);
+          mostrarFlashcard();
+        } catch (err) {
+          throw new Error(`Erro ao processar flashcards: ${err.message}`);
+        }
+      })
+      .catch(err => {
+        console.error('Erro ao carregar flashcards:', err);
         document.getElementById('pergunta').innerHTML = `
           <div style="color: #e53e3e;">
             ❌ Erro ao carregar flashcards<br>
-            <small style="opacity: 0.7;">${err}</small>
+            <small style="opacity: 0.7; display: block; margin-top: 10px;">
+              ${err.message}<br><br>
+              Certifique-se de que o arquivo 'flashcards.txt' existe na raiz do seu repositório GitHub.
+            </small>
           </div>
         `;
-      }
-    }, 1000);
+      });
 
     function mostrarFlashcard() {
       if (remaining.length === 0) {
