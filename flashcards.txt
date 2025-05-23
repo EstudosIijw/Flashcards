@@ -139,3 +139,25 @@ O que é fundamental para manter a cadeia de custódia da prova fotográfica?;A 
 O que o Art. 165 do CPP sugere em relação ao laudo de exame de corpo de delito?;Que seja ilustrado com fotografias, desenhos ou esquemas elucidativos, especialmente para demonstrar lesões em cadáveres.
 Qual a implicação do Art. 422, §1º do CPC para a fotografia digital?;Reconhece a fotografia digital como meio de prova, mas prevê autenticação eletrônica ou perícia se impugnada.
 A exigência de negativo do Art. 385, §1º do CPC se aplica estritamente a fotografias digitais que integram um laudo pericial?;É relativizada, especialmente quando a fotografia integra o laudo pericial (Art. 429 CPC), onde o arquivo digital original (RAW) pode cumprir função análoga.
+Qual a definição ampla de local de crime?;Toda área física ou virtual onde ocorreu um fato que configure, presuma ou possa vir a configurar uma infração penal, exigindo intervenção da autoridade.
+Quais são as três classificações do local de crime quanto à sua abrangência?;Local Imediato (ou Direto), Local Mediato (ou Indireto) e Local Relacionado.
+O que é o local imediato (ou direto) de um crime?;Onde o evento principal ocorreu (ex: cômodo onde a vítima foi encontrada).
+O que é o local mediato (ou indireto) de um crime?;Áreas adjacentes ao local imediato, onde podem ser encontrados vestígios relacionados ao crime (ex: corredor de acesso).
+O que é um local relacionado ao crime?;Qualquer outro local, mesmo distante, vinculado ao evento delituoso, onde possam ser encontrados vestígios (ex: local de desova do corpo).
+Qual artigo do CPP estabelece o dever da autoridade policial de se dirigir ao local do crime e preservá-lo até a chegada dos peritos?;Art. 6º, inciso I, do CPP.
+O local de crime é uma fonte primária ou secundária de informação?;Fonte primária de informação.
+O que o local de crime pode revelar sobre a infração penal?;A existência do crime (corpo de delito), autoria e participação, identificação da vítima, modus operandi, dinâmica do fato, relação vítima-agressor e, indiretamente, o móvel do crime.
+Qual é o Princípio da Troca de Locard?;Todo contato deixa uma marca; o criminoso sempre deixa algo de si no local e sempre leva algo do local consigo.
+Cite três tipos de vestígios biológicos que podem ser encontrados em um local de crime.;Sangue, sêmen, saliva, pelos, fios de cabelo, tecidos humanos (qualquer três).
+Qual a relação entre o local de crime e o corpo de delito, conforme o Art. 158 do CPP?;O Art. 158 do CPP estabelece que, quando a infração deixar vestígios, será indispensável o exame de corpo de delito, direto ou indireto, sendo o local de crime a principal fonte desses vestígios.
+Defina "isolamento de local de crime".;Consiste em delimitar fisicamente a área do local de crime, impedindo o acesso de pessoas não autorizadas, para evitar a introdução, alteração ou remoção de vestígios.
+Defina "preservação de local de crime".;Conjunto de medidas adotadas para manter o local e os vestígios em seu estado original, o mais próximo possível de como foram deixados após o evento criminoso, até a chegada e conclusão dos trabalhos dos peritos.
+Quais os principais objetivos do isolamento e preservação do local de crime?;Garantir a idoneidade e integridade dos vestígios, evitar contaminação/alteração/destruição, permitir análise pericial precisa e assegurar a validade jurídica da prova.
+Segundo o Art. 6º, I, do CPP, quem deve providenciar para que não se alterem o estado e conservação das coisas no local do crime?;A autoridade policial.
+O que o Art. 169 do CPP estabelece sobre a alteração do estado das coisas no local da infração?;A autoridade providenciará imediatamente para que não se altere o estado das coisas até a chegada dos peritos, que registrarão eventuais alterações e suas consequências.
+Qual a prioridade ao chegar em um local de crime com vítimas?;O socorro às vítimas com vida.
+Caso o socorro à vítima altere o local de crime, como se deve proceder?;A alteração é justificável, mas deve ser devidamente documentada.
+Qual a relação entre o isolamento e preservação do local de crime e a Cadeia de Custódia?;O isolamento e a preservação são as primeiras etapas da cadeia de custódia, ligadas ao reconhecimento e isolamento dos vestígios (Art. 158-B, I e II, CPP).
+O que é Cadeia de Custódia, conforme o Art. 158-A do CPP?;O conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado, para rastrear sua posse e manuseio desde o reconhecimento até o descarte.
+Qual a consequência da falha na preservação inicial do local de crime para a cadeia de custódia?;Compromete toda a sequência da cadeia de custódia, podendo levar à imprestabilidade da prova.
+Quais são as duas primeiras etapas da cadeia de custódia descritas no Art. 158-B do CPP?;I - reconhecimento e II - isolamento.
