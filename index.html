@@ -258,7 +258,6 @@
   <div class="container">
     <div class="header">
       <h1>Flashcards ✨</h1>
-      <p>Aprenda de forma inteligente</p>
     </div>
     
     <div class="card" id="card">
@@ -297,7 +296,7 @@
 
     // Theme management
     const themeToggle = document.getElementById('theme-toggle');
-    const savedTheme = localStorage.getItem('theme') || 'light';
+    const savedTheme = localStorage.getItem('theme') || 'dark';
     
     if (savedTheme === 'dark') {
       document.documentElement.setAttribute('data-theme', 'dark');
