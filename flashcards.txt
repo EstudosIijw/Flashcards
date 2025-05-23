@@ -177,3 +177,32 @@ O que é vestígio, conforme o Código de Processo Penal?;Todo objeto ou materia
 O que é cadeia de custódia, conforme o Art. 158-A do CPP?;O conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento até o descarte.
 Quem é responsável pela preservação de um elemento reconhecido como de potencial interesse para a prova pericial, segundo o Art. 158-A, §2º do CPP?;O agente público que o reconhecer.
 Onde devem ser guardados os vestígios coletados e quem é responsável por sua gestão, segundo o Art. 158-A do CPP (Lei Anticrime)?;Todos os Institutos de Criminalística deverão ter uma central de custódia, e sua gestão deve ser vinculada diretamente ao órgão central de perícia oficial de natureza criminal.
+O que é o exame perinecroscópico?;É a análise externa do cadáver e de seu entorno imediato, realizada no local onde o corpo foi encontrado.
+Quem realiza o exame perinecroscópico?;O Perito Criminal.
+Onde é realizado o exame perinecroscópico?;No local do crime ou onde o cadáver foi encontrado.
+Qual o principal objetivo do exame perinecroscópico?;Coletar vestígios, analisar a cena do crime e buscar elementos que ajudem a compreender a dinâmica do evento.
+O exame perinecroscópico envolve análise interna do cadáver?;Não, o exame perinecroscópico é um exame externo.
+O que é o exame necroscópico (necropsia)?;É o exame interno e externo do cadáver realizado para determinar a causa médica da morte.
+Quem realiza o exame necroscópico?;O Médico Legista.
+Onde é realizado o exame necroscópico?;No Instituto Médico Legal (IML).
+Qual a principal diferença entre o exame perinecroscópico e o necroscópico quanto ao profissional responsável?;Perinecroscópico é feito pelo Perito Criminal; Necroscópico é feito pelo Médico Legista.
+Qual a principal diferença entre o exame perinecroscópico e o necroscópico quanto ao local?;Perinecroscópico é no local do achado do corpo; Necroscópico é no IML.
+Qual a principal diferença entre o exame perinecroscópico e o necroscópico quanto ao objetivo?;Perinecroscópico visa entender a dinâmica do evento e coletar vestígios na cena; Necroscópico visa determinar a causa médica da morte.
+Cite três objetivos do exame perinecroscópico.;1. Constatar a realidade da morte; 2. Analisar a posição do corpo e sua relação com o ambiente; 3. Identificar, descrever e coletar vestígios.
+Como o exame perinecroscópico auxilia na estimativa preliminar do tempo de morte?;Através da observação e descrição dos fenômenos cadavéricos (ex: livores, rigidez).
+O que se analisa na etapa de "Exame do Local e Posição do Cadáver" no exame perinecroscópico?;A descrição detalhada da posição do corpo (decúbito, etc.) e sua relação com objetos e pontos de referência do local.
+O que é examinado nas vestes da vítima durante o exame perinecroscópico?;Busca-se por danos (rasgos, perfurações), manchas (sangue, fluidos), resíduos (terra, pólvora) ou outros elementos relevantes.
+Quais informações são buscadas na "Identificação" durante o exame externo do cadáver?;Características físicas gerais (sexo, idade aparente, cor) e sinais particulares (tatuagens, cicatrizes).
+O que são "fenômenos cadavéricos" e por que são importantes no exame perinecroscópico?;São os sinais de morte (livores, rigidez, temperatura, putrefação) que ajudam a estimar o tempo de morte.
+Quais detalhes das lesões externas são descritos no exame perinecroscópico?;Localização, tipo, dimensões, forma, bordas, profundidade aparente, sinais de reação vital e presença de corpos estranhos.
+O que é verificado nos orifícios naturais do cadáver durante o exame perinecroscópico?;Busca-se por lesões, sangramentos ou presença de substâncias.
+Que tipo de vestígios podem ser coletados durante o exame perinecroscópico?;Material biológico (cabelos, unhas, sangue), resíduos sob as unhas, resíduos de disparos de arma de fogo.
+Quais são as principais formas de registro dos achados no exame perinecroscópico?;Registro fotográfico detalhado e anotações descritivas para o laudo pericial.
+Como a banca Cebraspe costuma abordar o tema do exame perinecroscópico?;Por meio de questões conceituais, atribuições profissionais, correção de procedimentos em situações hipotéticas e estudos de caso.
+Qual a importância da análise dos livores de hipóstase (manchas de posição) no exame perinecroscópico?;Podem indicar se o corpo foi movido após a morte e auxiliar na estimativa do tempo de morte.
+Qual o significado do prefixo "peri" em perinecroscópico?;Significa "ao redor" ou "periferia", indicando um exame na periferia do cadáver e seu contexto.
+A descrição de lesões no exame perinecroscópico visa determinar a causa da morte?;Primariamente visa descrever as lesões externas e o meio que as produziu; a causa médica da morte é determinada na necropsia.
+O exame perinecroscópico inclui a coleta de impressões digitais do cadáver no local?;Sim, a coleta de elementos para identificação, como impressões digitais, pode fazer parte dos procedimentos no local, se pertinente.
+A análise de resíduos de disparo de arma de fogo nas mãos da vítima é parte de qual exame?;Do exame perinecroscópico, se houver suspeita de suicídio ou para análise da dinâmica em homicídios.
+Por que é importante o registro fotográfico detalhado no exame perinecroscópico?;Para documentar a cena como foi encontrada, a posição do cadáver, os vestígios e as lesões, servindo como prova material.
+A movimentação do cadáver durante o exame perinecroscópico deve ser feita de que forma?;De forma cuidadosa, metodológica, após o exame da face em contato com a superfície, para inspecionar todas as regiões.
