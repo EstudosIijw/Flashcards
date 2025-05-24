@@ -256,5 +256,25 @@ O que é o sinal de Hoffmann (ou Câmara de Mina de Hoffmann)?;Descolamento da p
 Quais as características do orifício de saída (OS) de um PAF?;Forma irregular/estrelada, maior que o OE, bordas evertidas, geralmente sem orlas de escoriação/enxugo/tatuagem.
 As bordas do orifício de entrada de PAF são invertidas ou evertidas?;Invertidas (para dentro).
 As bordas do orifício de saída de PAF são invertidas ou evertidas?;Evertidas (para fora).
+O que é calibre nominal?;É a designação comercial, industrial ou regulamentar de um determinado tipo de munição ou arma, servindo para identificação e padronização.
+O que é calibre real?;É a medida dimensional efetiva do diâmetro interno do cano da arma de fogo ou do diâmetro do projétil.
+O calibre nominal sempre corresponde à medida física exata do projétil ou do cano?;Não, o calibre nominal é uma designação e frequentemente não corresponde à medida física exata (calibre real).
+Em armas de alma raiada, o calibre real para fins de compatibilidade com o projétil geralmente se refere a qual medida do cano?;Ao diâmetro medido entre os fundos de duas raias opostas.
+Como é determinado o calibre nominal de espingardas (ex: Calibre 12, 20)?;Pelo número de esferas de chumbo, com o diâmetro interno do cano, necessárias para totalizar uma libra (453,6g). Quanto menor o número, maior o diâmetro.
+O projétil da munição calibre nominal .38 Special possui um diâmetro real de 0,38 polegadas?;Não, o projétil da munição .38 Special possui um diâmetro real de aproximadamente .357 polegadas (cerca de 9,06 mm).
+Qual o diâmetro real aproximado do projétil utilizado nas munições .357 Magnum?;Aproximadamente .357 polegadas (cerca de 9,06 mm), coincidindo com o nominal neste caso específico de projétil.
+A designação "9mm Luger" é um calibre nominal ou real?;É um calibre nominal. O diâmetro real do projétil é de aproximadamente 9,01 mm ou .355 polegadas.
+A família de calibres nominais ".30" (ex: .30-06 Springfield, .308 Winchester) utiliza projéteis com qual diâmetro real aproximado?;Utilizam projéteis com diâmetro real de aproximadamente .308 polegadas (7,82 mm).
+Qual unidade de medida é comumente associada a calibres como ".45 ACP" e ".223 Remington"?;Polegadas (inches), representadas por um ponto decimal antes do número.
+Qual unidade de medida é comumente associada a calibres como "9mm Parabellum" e "7.62x51mm NATO"?;Milímetros (mm).
+Em espingardas, um calibre nominal 12 possui um diâmetro de cano maior ou menor que um calibre 20?;Maior. No sistema "gauge" de espingardas, quanto menor o número, maior o diâmetro do cano.
+Por que a distinção entre calibre real e nominal é importante para a segurança?;Para evitar o uso de munição incompatível com a arma, o que pode causar acidentes graves devido a pressões inadequadas ou dimensões incorretas.
+Em perícia criminal, qual a relevância de se conhecer o calibre real e nominal?;Auxilia na determinação do tipo de arma utilizada, na associação de projéteis/estojos à cena do crime e na correta aplicação da legislação.
+O que significa a sigla "ACP" em calibres como ".45 ACP"?;Automatic Colt Pistol.
+O que significa a sigla "S&W" em calibres como ".40 S&W"?;Smith & Wesson.
+O que significa "Magnum" em designações de calibre como ".357 Magnum" ou ".44 Magnum"?;Indica uma munição com carga de projeção (pólvora) mais potente e, consequentemente, maior energia e pressão que sua contraparte não-Magnum (se houver).
+Pode-se afirmar que o calibre nominal é sempre uma aproximação do diâmetro do projétil?;Não necessariamente. Pode ser derivado de outros fatores como ano, fabricante ou ser uma designação arbitrária.
+O diâmetro do projétil em armas raiadas é tipicamente igual ao diâmetro entre os cheios (lands) do cano?;Não, o diâmetro do projétil é tipicamente igual ou ligeiramente maior que o diâmetro entre os fundos das raias (grooves) para обеспечить vedação e engajamento no raiamento.
+Qual a principal diferença conceitual entre calibre real e nominal para a Cebraspe?;Calibre real é uma MEDIDA FÍSICA, enquanto calibre nominal é uma DESIGNAÇÃO ou NOME.
 "Ferida em acordeão" ou "sanfona" pode ocorrer em qual tipo de lesão e por quê?;Em feridas punctórias, quando o instrumento é mais profundo que seu próprio tamanho, devido à elasticidade da pele.
 Qual a principal diferença entre a zona de tatuagem e a zona de esfumaçamento em lesões por PAF?;A zona de esfumaçamento (fuligem) pode ser removida com lavagem, enquanto a zona de tatuagem (grãos de pólvora) não.
