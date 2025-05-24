@@ -206,3 +206,55 @@ O exame perinecroscópico inclui a coleta de impressões digitais do cadáver no
 A análise de resíduos de disparo de arma de fogo nas mãos da vítima é parte de qual exame?;Do exame perinecroscópico, se houver suspeita de suicídio ou para análise da dinâmica em homicídios.
 Por que é importante o registro fotográfico detalhado no exame perinecroscópico?;Para documentar a cena como foi encontrada, a posição do cadáver, os vestígios e as lesões, servindo como prova material.
 A movimentação do cadáver durante o exame perinecroscópico deve ser feita de que forma?;De forma cuidadosa, metodológica, após o exame da face em contato com a superfície, para inspecionar todas as regiões.
+O que é rubefação?;Lesão mais simples, mancha avermelhada, fugaz e efêmera, decorrente de vasodilatação momentânea. Desaparece em minutos.
+O que é escoriação (ou abrasão)?;Lesão superficial que atinge a epiderme e, eventualmente, a derme papilar, produzida por ação tangencial de instrumento contundente.
+Qual a importância da "cauda de escoriação"?;Pode indicar a direção do movimento do instrumento que causou a escoriação.
+O que é equimose?;Infiltração de sangue nas malhas dos tecidos devido à ruptura de capilares e vênulas, sem rompimento da pele.
+A equimose é uma lesão vital?;Sim, ocorre em indivíduo vivo, pois necessita de circulação ativa.
+Descreva o Espectro Equimótico de Legrand du Saulle (cores e dias aproximados).;Vermelho-violácea (1º dia), Azulada (2º-3º dia), Esverdeada (4º-6º dia), Amarelada (7º-12º dia), Desaparecimento (15-20 dias).
+Qual a cor da equimose no 1º dia segundo Legrand du Saulle?;Vermelho-violácea.
+Qual a cor da equimose entre o 2º e o 3º dia segundo Legrand du Saulle?;Azulada.
+Qual a cor da equimose entre o 4º e o 6º dia segundo Legrand du Saulle?;Esverdeada.
+Qual a cor da equimose entre o 7º e o 12º dia segundo Legrand du Saulle?;Amarelada.
+Qual a particularidade da equimose conjuntival em relação à sua cor?;Permanece vermelha até desaparecer, não seguindo o espectro equimótico clássico.
+O que são petéquias?;Equimoses em forma de pequenos pontos hemorrágicos.
+O que é sugilação?;Aglomerado de petéquias, como um "chupão".
+O que é sufusão (ou equimoma)?;Extensa área de infiltração sanguínea (equimose extensa).
+O que são víbices?;Equimoses em forma de estrias alongadas e paralelas, reproduzindo a forma do objeto contundente.
+Qual a principal diferença entre equimose e livores hipostáticos?;Equimose: sangue infiltrado e coagulado nos tecidos (lesão vital). Livores: sangue não coagulado dentro dos vasos (fenômeno cadavérico).
+O que é hematoma?;Coleção de sangue em uma cavidade neoformada ou preexistente, resultante da ruptura de vasos de maior calibre.
+O que é bossa sanguínea?;Hematoma que se forma sobre um plano ósseo, causando elevação pronunciada.
+O que é ferida contusa?;Lesão aberta produzida por instrumento contundente, com rompimento da pele e/ou tecidos subjacentes.
+Quais as características das bordas de uma ferida contusa?;Irregulares, esmagadas, escoriadas e equimosadas.
+Como são os ângulos de uma ferida contusa?;Obtusos ou irregulares.
+O que são "pontes de tecido" em uma ferida contusa?;Vasos, nervos e fibras íntegras unindo as bordas no fundo da lesão.
+Qual o tipo de instrumento que produz uma ferida punctória (ou puntiforme)?;Instrumentos finos, alongados e pontiagudos (ex: agulha, estilete fino).
+Como é o orifício de entrada de uma ferida punctória?;Geralmente circular ou fusiforme, de pequeno diâmetro, podendo ser menor que o instrumento devido à elasticidade da pele.
+O que diz a 1ª Lei de Filhos (Lei da Semelhança) sobre feridas punctórias?;Em regiões sem direção predominante das fibras elásticas, as feridas tendem a se assemelhar às produzidas por instrumentos de dois gumes (forma de "casa de botão").
+O que diz a Lei de Langer sobre feridas punctórias?;Na confluência de regiões com linhas de força diferentes, a ferida pode assumir forma de ponta de seta, triangular ou quadrilátera.
+Qual o tipo de instrumento que produz uma ferida incisa (ou cortante)?;Instrumentos com gume afiado (ex: navalha, bisturi).
+Quais as características das bordas de uma ferida incisa?;Regulares, nítidas e lineares.
+Como são os ângulos de uma ferida incisa?;Agudos nas extremidades.
+O que é a "cauda de escoriação" ou "cauda de saída" em uma ferida incisa?;Extremidade mais superficial que indica o fim do movimento do instrumento cortante.
+O que é esgorjamento?;Ferida incisa na região anterior ou lateral do pescoço.
+O que é degolamento?;Ferida incisa na região posterior do pescoço.
+O que é decapitação?;Separação da cabeça do tronco por instrumento cortante ou cortocontundente.
+Qual o tipo de instrumento que produz uma ferida perfurocortante (ou perfuroincisa)?;Instrumentos com ponta e um ou mais gumes (ex: faca de ponta, punhal).
+Como é o orifício de entrada de uma ferida perfurocortante por instrumento de um gume?;Forma de "botoeira" ou fenda, com um ângulo agudo (lado do gume) e outro arredondado ou em entalhe (lado do dorso).
+Como é o orifício de entrada de uma ferida perfurocortante por instrumento de dois gumes?;Forma de fenda com ambos os ângulos agudos.
+Qual o tipo de instrumento que produz uma ferida cortocontusa?;Instrumentos com gume que atuam pela massa e força (ex: machado, facão).
+Quais as características de uma ferida cortocontusa?;Combina características de feridas cortantes e contusas; bordas menos regulares, equimosadas, esmagadas; pode haver fraturas.
+Qual o tipo de instrumento que produz uma ferida perfurocontusa?;Instrumentos com ponta romba que atuam por contusão (ex: projétil de arma de fogo).
+Quais as características do orifício de entrada (OE) de um projétil de arma de fogo (PAF)?;Forma arredondada/ovalada (tiro perpendicular), bordas invertidas, presença de orlas.
+O que é a orla de escoriação no OE de um PAF?;Área escoriada ao redor do orifício, pelo atrito e contusão do projétil.
+O que é a orla de enxugo no OE de um PAF?;Anel escurecido ao redor da orla de escoriação, pela limpeza de sujidades do projétil na pele.
+O que é a zona de chamuscamento em tiros por PAF?;Queimadura da pele e pelos pela chama do disparo, em tiro encostado ou "à queima-roupa".
+O que é o sinal de Werkgaertner?;Reprodução da boca e da alça de mira da arma na pele, em tiros encostados com chamuscamento.
+O que é a zona de esfumaçamento em tiros por PAF?;Deposição de fuligem (pólvora queimada) ao redor do OE em tiros a curta distância, removível com lavagem.
+O que é a zona de tatuagem em tiros por PAF?;Impregnação de grãos de pólvora incombusta/parcialmente combusta na pele em tiros a curta distância, não removível com lavagem.
+O que é o sinal de Hoffmann (ou Câmara de Mina de Hoffmann)?;Descolamento da pele ao redor do OE em tiros encostados sobre plano ósseo, devido à pressão dos gases.
+Quais as características do orifício de saída (OS) de um PAF?;Forma irregular/estrelada, maior que o OE, bordas evertidas, geralmente sem orlas de escoriação/enxugo/tatuagem.
+As bordas do orifício de entrada de PAF são invertidas ou evertidas?;Invertidas (para dentro).
+As bordas do orifício de saída de PAF são invertidas ou evertidas?;Evertidas (para fora).
+"Ferida em acordeão" ou "sanfona" pode ocorrer em qual tipo de lesão e por quê?;Em feridas punctórias, quando o instrumento é mais profundo que seu próprio tamanho, devido à elasticidade da pele.
+Qual a principal diferença entre a zona de tatuagem e a zona de esfumaçamento em lesões por PAF?;A zona de esfumaçamento (fuligem) pode ser removida com lavagem, enquanto a zona de tatuagem (grãos de pólvora) não.
