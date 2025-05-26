@@ -554,3 +554,38 @@ Uma certidão de tempo de serviço é um exemplo de qual espécie de ato adminis
 Um decreto regulamentar expedido pelo Presidente da República é um exemplo de qual espécie de ato administrativo?;Ato Normativo.
 A exoneração de um servidor em estágio probatório com base em avaliações fraudulentas apresenta vício em qual requisito?;Motivo (baseado em fato inexistente/falso).
 Se um superior remove um servidor com intenção de puni-lo, e não por necessidade do serviço, qual vício ocorre?;Desvio de Finalidade (vício no requisito Finalidade).
+Qual a definição ampla de agente público segundo a Lei de Improbidade Administrativa (Lei nº 8.429/92)?;Todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função pública.
+Qual a principal lei que rege os servidores públicos civis da União, suas autarquias e fundações públicas federais?;Lei nº 8.112/1990.
+Qual o conceito de servidor público para a Lei nº 8.112/90?;A pessoa legalmente investida em cargo público.
+O que é cargo público, segundo a Lei nº 8.112/90?;O conjunto de atribuições e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor.
+Com qual ato ocorre a investidura em cargo público?;Com a posse.
+Quais são as formas de provimento de cargo público previstas na Lei nº 8.112/90?;Nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução.
+Qual o prazo do estágio probatório segundo a literalidade do art. 20 da Lei nº 8.112/90?;24 meses.
+Qual o prazo do estágio probatório consolidado pela jurisprudência, após a EC nº 19/1998?;3 anos.
+A licença por motivo de doença em pessoa da família, como cônjuge ou companheiro, pode ser concedida com remuneração por qual prazo inicial máximo segundo a Lei 8.112/90?;Até 60 dias.
+A licença por motivo de doença em pessoa da família, após o prazo inicial remunerado, pode ser prorrogada por até quantos dias, sem remuneração?;Até 90 dias.
+Quais são as penalidades disciplinares previstas na Lei nº 8.112/90?;Advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, e destituição de cargo em comissão.
+O que é remoção, segundo a Lei nº 8.112/90?;O deslocamento do servidor, a pedido ou de ofício, no âmbito do mesmo quadro, com ou sem mudança de sede.
+O que é redistribuição, segundo a Lei nº 8.112/90?;O deslocamento de cargo de provimento efetivo, ocupado ou vago no âmbito do quadro geral de pessoal, para outro órgão ou entidade do mesmo Poder.
+O que é reintegração, segundo a Lei nº 8.112/90?;A reinvestidura do servidor estável no cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial, com ressarcimento de todas as vantagens.
+A quem se aplica a Lei nº 8.112/1990?;Aos servidores públicos civis da União, das autarquias federais e das fundações públicas federais.
+A nomeação para cargo de provimento efetivo depende de quê?;Prévia aprovação em concurso público de provas ou de provas e títulos.
+Quais são os requisitos básicos para investidura em cargo público conforme a Lei 8.112/90?;Nacionalidade brasileira; gozo dos direitos políticos; quitação com as obrigações militares e eleitorais; nível de escolaridade exigido para o exercício do cargo; idade mínima de dezoito anos; aptidão física e mental.
+A posse em cargo público deverá ocorrer em qual prazo após a publicação do ato de provimento (nomeação)?;No prazo de 30 dias.
+Se a posse não ocorrer no prazo legal, o que acontece com o ato de provimento?;Será tornado sem efeito.
+Qual o prazo para o servidor entrar em exercício após a posse?;15 dias.
+O servidor que não entrar em exercício no prazo legal será exonerado do cargo ou terá o ato de nomeação tornado sem efeito?;Será exonerado do cargo.
+Durante o estágio probatório, quais fatores são avaliados em relação à aptidão e capacidade do servidor?;Assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade.
+A readaptação é uma forma de provimento que ocorre quando o servidor sofre qual tipo de limitação?;Limitação em sua capacidade física ou mental verificada em inspeção médica.
+O que é reversão?;É o retorno à atividade de servidor aposentado.
+Em quais hipóteses ocorre a reversão?;Por invalidez, quando junta médica oficial declarar insubsistentes os motivos da aposentadoria; ou no interesse da administração.
+O que é aproveitamento?;O retorno à atividade de servidor em disponibilidade.
+A recondução decorre de quais situações?;Inabilitação em estágio probatório relativo a outro cargo ou reintegração do anterior ocupante.
+Servidor público pode exercer mais de um cargo público remunerado?;Não, como regra geral, ressalvadas as exceções previstas na Constituição Federal.
+Qual a penalidade para o servidor que acumular ilegalmente cargos, empregos ou funções públicas?;Demissão, após processo administrativo disciplinar.
+É permitido ao servidor ausentar-se do serviço durante o expediente sem prévia autorização do chefe imediato?;Não, constitui dever do servidor ser assíduo e pontual ao serviço.
+Qual a penalidade aplicável ao servidor que comete inassiduidade habitual (falta ao serviço, sem causa justificada, por 60 dias, interpoladamente, durante o período de 12 meses)?;Demissão.
+A penalidade de suspensão pode exceder quantos dias?;90 dias.
+A responsabilidade civil do servidor decorre de ato omissivo ou comissivo, doloso ou culposo, que resulte em quê?;Prejuízo ao erário ou a terceiros.
+A obrigação de reparar o dano estende-se aos sucessores e contra eles será executada até qual limite?;Até o limite do valor da herança recebida.
+A destituição de cargo em comissão exercido por não ocupante de cargo efetivo será aplicada em quais casos?;Nos casos de infração sujeita às penalidades de suspensão e de demissão.
