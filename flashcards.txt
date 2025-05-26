@@ -410,5 +410,97 @@ Na descentralização por outorga, a quem pertence a titularidade do serviço p�
 Quem executa o serviço na descentralização por colaboração (delegação)?;O particular (pessoa física ou jurídica), que recebe apenas a execução do serviço, permanecendo a titularidade com o Estado.
 A desconcentração pode ocorrer apenas na Administração Direta?;Não, ela pode ocorrer tanto na Administração Direta (ex: Ministérios da União) quanto no âmbito interno das entidades da Administração Indireta (ex: Departamentos dentro de uma autarquia).
 Qual o instrumento jurídico típico da descentralização por outorga?;Lei (que cria ou autoriza a criação da entidade).
+O que é Administração Direta?;Conjunto de órgãos que integram as pessoas políticas (União, Estados, DF, Municípios) sem personalidade jurídica própria, responsáveis pela execução direta de atividades administrativas.
+Os órgãos da Administração Direta possuem personalidade jurídica própria?;Não, são meras repartições internas do ente estatal.
+Qual a técnica administrativa predominante na Administração Direta?;Desconcentração.
+O que é desconcentração administrativa?;Distribuição interna de competências dentro da mesma pessoa jurídica, mantendo a hierarquia.
+Como são criados e extintos os órgãos da Administração Direta?;Por meio de lei.
+O que é Administração Indireta?;Conjunto de entidades dotadas de personalidade jurídica própria, criadas pelo Estado para desempenhar atividades administrativas de forma descentralizada.
+As entidades da Administração Indireta possuem personalidade jurídica própria?;Sim.
+Qual a técnica administrativa predominante na formação da Administração Indireta?;Descentralização.
+O que é descentralização administrativa por outorga (ou por serviços)?;Transferência da titularidade e/ou execução de serviços públicos para outra pessoa jurídica (entidade da Administração Indireta).
+Quais são as entidades que compõem a Administração Indireta?;Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista.
+Como se dá a relação entre a Administração Direta e as entidades da Indireta?;Por vinculação (controle finalístico ou tutela), não havendo subordinação hierárquica.
+O que são Autarquias?;Pessoas jurídicas de direito público, criadas por lei específica, com patrimônio e receita próprios, para executar atividades típicas da Administração Pública.
+Qual a personalidade jurídica das Autarquias?;Direito público.
+Como são criadas as Autarquias?;Por lei específica.
+Cite exemplos de Autarquias.;INSS, IBAMA, BACEN, Agências Reguladoras.
+O que são Fundações Públicas?;Entidades com personalidade jurídica (de direito público ou privado), sem fins lucrativos, criadas em virtude de autorização legislativa para atividades de interesse social.
+Quem define as áreas de atuação das Fundações Públicas segundo a CF/88?;Lei complementar.
+Fundações Públicas de Direito Público também são chamadas de?;Fundações Autárquicas.
+Como são criadas as Fundações Públicas de Direito Público?;Por lei.
+Como são instituídas as Fundações Públicas de Direito Privado?;Autorizadas por lei, adquirem personalidade com o registro de seus atos constitutivos.
+O que são Empresas Públicas?;Pessoas jurídicas de direito privado, autorizadas por lei para sua criação, com capital social integralmente público.
+Qual a personalidade jurídica das Empresas Públicas?;Direito privado.
+Como é composto o capital social das Empresas Públicas?;Integralmente público.
+Qual a finalidade das Empresas Públicas?;Exploração de atividade econômica de relevante interesse coletivo ou prestação de serviços públicos.
+Cite exemplos de Empresas Públicas.;Caixa Econômica Federal, Correios (ECT).
+O que são Sociedades de Economia Mista (SEM)?;Pessoas jurídicas de direito privado, autorizadas por lei para sua criação, constituídas como S.A., com maioria do capital votante público.
+Qual a personalidade jurídica das Sociedades de Economia Mista?;Direito privado.
+Como deve ser a forma societária das Sociedades de Economia Mista?;Sociedade Anônima (S.A.).
+Como é composto o capital social votante das Sociedades de Economia Mista?;Maioria pertencente à União, Estados, DF, Municípios ou a entidade da Administração Indireta.
+Qual a finalidade das Sociedades de Economia Mista?;Exploração de atividade econômica ou prestação de serviços públicos.
+Cite exemplos de Sociedades de Economia Mista.;Banco do Brasil S.A., Petrobras S.A.
+Qual a composição da Administração Direta vs. Indireta?;Direta: Órgãos; Indireta: Entidades (pessoas jurídicas).
+Qual a diferença de personalidade jurídica entre Administração Direta e Indireta?;Direta: Não possui; Indireta: Possui.
+Qual a relação principal na Administração Direta vs. Indireta?;Direta: Hierarquia e Subordinação; Indireta: Vinculação e Tutela.
+Qual a técnica de gestão predominante na Administração Direta vs. Indireta?;Direta: Desconcentração; Indireta: Descentralização.
+Qual decreto-lei histórico dispõe sobre a organização da Administração Federal e conceitos de entidades?;Decreto-Lei nº 200/1967.
+Qual lei estabelece o estatuto jurídico da empresa pública e da sociedade de economia mista?;Lei nº 13.303/2016.
+A criação de uma autarquia necessita de lei específica ou autorização legislativa?;Lei específica.
+A instituição de uma empresa pública necessita de lei específica ou autorização legislativa para sua criação?;Autorização legislativa para sua criação (e posterior registro dos atos constitutivos).
+A instituição de uma fundação pública necessita de lei específica ou autorização legislativa para sua criação?;Depende: se de direito público, lei específica para criar; se de direito privado, autorização legislativa para criar.
+A instituição de uma sociedade de economia mista necessita de lei específica ou autorização legislativa para sua criação?;Autorização legislativa para sua criação (e posterior registro dos atos constitutivos).
+Agências Reguladoras são que tipo de entidade da Administração Indireta?;Autarquias de regime especial.
+O que compõe a Administração Pública Indireta?;Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista.
+Como ocorre a descentralização administrativa por outorga?;O Estado cria uma entidade e lhe transfere a titularidade e a execução de um serviço público.
+Qual a principal diferença entre descentralização e desconcentração?;Descentralização envolve a criação de nova pessoa jurídica; desconcentração é uma distribuição interna de competências na mesma pessoa jurídica.
+Como são criadas as autarquias?;Por lei específica.
+Qual a personalidade jurídica das autarquias?;Direito Público.
+Qual a natureza das atividades desempenhadas pelas autarquias?;Funções próprias e típicas do Estado, despidas de caráter econômico.
+Exemplos de autarquias?;INSS, IBAMA, Agências Reguladoras (ANATEL, ANEEL), BACEN.
+O que são Agências Reguladoras?;Autarquias de regime especial, com maior autonomia e dirigentes com mandato fixo.
+Qual o regime de pessoal das autarquias?;Regime jurídico estatutário (servidores públicos).
+Os bens das autarquias são penhoráveis?;Não, são considerados bens públicos e, portanto, impenhoráveis, inalienáveis (nos termos da lei) e não sujeitos a usucapião.
+As autarquias estão sujeitas a licitação?;Sim, conforme a Lei nº 14.133/2021 e outras aplicáveis.
+Qual o tipo de responsabilidade civil das autarquias?;Objetiva, nos termos do art. 37, §6º da Constituição Federal.
+As autarquias gozam de imunidade tributária?;Sim, recíproca quanto a impostos sobre patrimônio, renda e serviços vinculados às suas finalidades essenciais.
+Como são criadas as fundações públicas?;Autorizadas por lei específica e instituídas por ato do Poder Executivo (decreto), com registro dos atos constitutivos.
+Qual o requisito legal para a definição das áreas de atuação das fundações públicas?;Lei complementar.
+Qual a personalidade jurídica das fundações públicas?;Podem ser de Direito Público (autárquicas) ou de Direito Privado.
+Qual o objetivo das fundações públicas?;Realização de atividades de interesse social e sem fins lucrativos (educação, pesquisa, cultura).
+Exemplos de fundações públicas?;FUNAI, Fundação Biblioteca Nacional.
+Qual o regime de pessoal das fundações públicas de direito público?;Regime estatutário, semelhante ao das autarquias.
+Qual o regime de pessoal das fundações públicas de direito privado?;Regime celetista, com admissão via concurso público.
+Como são criadas as empresas públicas (EP)?;Autorizadas por lei específica, com efetiva constituição pelo registro dos atos constitutivos.
+Qual a personalidade jurídica das empresas públicas?;Direito Privado.
+Como é composto o capital das empresas públicas?;Exclusivamente público.
+Qual a forma societária que uma empresa pública pode adotar?;Qualquer das formas admitidas em direito (S.A., Ltda., etc.).
+Quais tipos de atividades as empresas públicas podem exercer?;Exploração de atividade econômica ou prestação de serviços públicos.
+Exemplos de empresas públicas?;Caixa Econômica Federal, Correios.
+Qual o regime de pessoal das empresas públicas?;Celetista (empregados públicos), com admissão via concurso público.
+Os bens das empresas públicas são penhoráveis?;Em regra, são bens privados e penhoráveis, salvo se afetados à prestação de serviço público essencial.
+As empresas públicas estão sujeitas a licitação?;Sim, conforme a Lei das Estatais (Lei nº 13.303/2016) e subsidiariamente a Lei nº 14.133/2021.
+Qual a responsabilidade civil de uma empresa pública exploradora de atividade econômica em regime de concorrência?;Subjetiva.
+Qual a responsabilidade civil de uma empresa pública prestadora de serviço público?;Objetiva.
+Qual o foro para julgar causas de empresas públicas federais?;Justiça Federal.
+Como são criadas as sociedades de economia mista (SEM)?;Autorizadas por lei específica, com efetiva constituição pelo registro dos atos constitutivos.
+Qual a personalidade jurídica das sociedades de economia mista?;Direito Privado.
+Como é composto o capital das sociedades de economia mista?;Misto (público e privado), com a maioria das ações com direito a voto pertencendo ao Poder Público.
+Qual a forma societária obrigatória para as sociedades de economia mista?;Sociedade Anônima (S.A.).
+Quais tipos de atividades as sociedades de economia mista podem exercer?;Exploração de atividade econômica ou prestação de serviços públicos.
+Exemplos de sociedades de economia mista?;Banco do Brasil, Petrobras.
+Qual o regime de pessoal das sociedades de economia mista?;Celetista (empregados públicos), com admissão via concurso público.
+Os bens das sociedades de economia mista são penhoráveis?;Em regra, bens privados e penhoráveis, salvo se afetados à prestação de serviço público essencial.
+As sociedades de economia mista estão sujeitas a licitação?;Sim, conforme a Lei das Estatais (Lei nº 13.303/2016) e subsidiariamente a Lei nº 14.133/2021.
+Qual a responsabilidade civil de uma sociedade de economia mista exploradora de atividade econômica em regime de concorrência?;Subjetiva.
+Qual a responsabilidade civil de uma sociedade de economia mista prestadora de serviço público?;Objetiva.
+Qual o foro, em regra, para julgar causas envolvendo sociedades de economia mista?;Justiça Estadual.
+A criação de subsidiárias de empresas públicas e sociedades de economia mista depende de quê?;Autorização legislativa.
+Qual a lei que estabelece o Estatuto Jurídico das Empresas Estatais?;Lei nº 13.303/2016.
+Capital 100% público é característica de qual entidade da Administração Indireta?;Empresa Pública.
+Capital misto com controle acionário público é característica de qual entidade?;Sociedade de Economia Mista.
+Qual entidade da Administração Indireta é obrigatoriamente uma S.A.?Sociedade de Economia Mista.
+A exigência de concurso público para admissão de pessoal se aplica a todas as entidades da Administração Indireta?;Sim, para autarquias (estatutários) e para fundações públicas, empresas públicas e sociedades de economia mista (celetistas).
 Qual o instrumento jurídico típico da descentralização por delegação a particulares?;Contrato administrativo (concessão, permissão) ou ato administrativo unilateral (autorização).
 O que se busca com a desconcentração administrativa?;Maior eficiência e especialização na prestação dos serviços, aproximando a execução das tarefas do cidadão, dentro da mesma estrutura hierárquica.
