@@ -392,3 +392,23 @@ O perfil genético armazenado pode ser utilizado para fins de pesquisa científi
 Os bancos de perfis balísticos podem auxiliar na determinação da trajetória de disparos?;Sim, ao identificar a arma, pode-se inferir sobre suas características e, junto a outros elementos, auxiliar na reconstrução dos fatos.
 Quem gerencia o Banco Nacional de Perfis Genéticos (BNPG)?;Unidade oficial de perícia criminal.
 A coleta de perfil genético pode ser realizada em locais de crime a partir de quais tipos de vestígios?;Sangue, sêmen, saliva, fios de cabelo, entre outros materiais biológicos.
+O que caracteriza a Centralização Administrativa?;A execução de tarefas e serviços públicos diretamente pelo Estado, por meio de seus órgãos da Administração Direta, sem a criação de nova pessoa jurídica.
+O que é Descentralização Administrativa?;É a transferência da titularidade ou da execução de um serviço público do Estado para outra pessoa, física ou jurídica, distinta da Administração Direta.
+Qual a principal diferença entre descentralização por outorga e por delegação?;Na outorga, transfere-se a titularidade E a execução do serviço (geralmente via lei, para Adm. Indireta). Na delegação, transfere-se APENAS a execução (via contrato ou ato unilateral, para particulares).
+A criação de uma autarquia, como o INSS, é exemplo de qual fenômeno?;Descentralização administrativa por outorga (ou por serviços/funcional/técnica).
+A concessão da administração de uma rodovia a uma empresa privada é exemplo de quê?;Descentralização administrativa por delegação (ou por colaboração).
+O que é Desconcentração Administrativa?;É a distribuição interna de competências dentro de UMA MESMA pessoa jurídica, entre seus diversos órgãos, mantendo a relação de hierarquia.
+Os órgãos criados pela desconcentração possuem personalidade jurídica própria?;Não, os órgãos resultantes da desconcentração são despersonalizados e integram a estrutura da pessoa jurídica a que pertencem.
+Qual a diferença fundamental entre Descentralização e Desconcentração segundo a Cebraspe?;Descentralização envolve duas pessoas jurídicas e ausência de hierarquia (há vinculação). Desconcentração ocorre em uma única pessoa jurídica e pressupõe hierarquia.
+A distribuição de competências da União entre seus Ministérios (Ex: MEC, Ministério da Saúde) é um exemplo de quê?;Desconcentração administrativa.
+A relação entre um Ministério e suas Secretarias internas (Ex: Secretaria de Educação Básica dentro do MEC) é de qual natureza?;Hierárquica, sendo um exemplo de desconcentração dentro do próprio órgão já desconcentrado.
+O que é Concentração Administrativa?;É a redução da distribuição interna de competências dentro de uma mesma pessoa jurídica, reunindo-as em um número menor de órgãos ou em um órgão central. É o oposto da desconcentração.
+A fusão de dois Ministérios em um só, com a junção de suas atribuições, caracteriza qual fenômeno?;Concentração administrativa.
+Na descentralização administrativa, existe hierarquia entre o ente central e a entidade descentralizada?;Não. O que existe é a vinculação ou tutela administrativa (controle finalístico), mas não subordinação hierárquica.
+A criação de Secretarias Municipais dentro da estrutura da Prefeitura é um exemplo de?;Desconcentração administrativa.
+Na descentralização por outorga, a quem pertence a titularidade do serviço público transferido?;À entidade da Administração Indireta que recebeu a outorga.
+Quem executa o serviço na descentralização por colaboração (delegação)?;O particular (pessoa física ou jurídica), que recebe apenas a execução do serviço, permanecendo a titularidade com o Estado.
+A desconcentração pode ocorrer apenas na Administração Direta?;Não, ela pode ocorrer tanto na Administração Direta (ex: Ministérios da União) quanto no âmbito interno das entidades da Administração Indireta (ex: Departamentos dentro de uma autarquia).
+Qual o instrumento jurídico típico da descentralização por outorga?;Lei (que cria ou autoriza a criação da entidade).
+Qual o instrumento jurídico típico da descentralização por delegação a particulares?;Contrato administrativo (concessão, permissão) ou ato administrativo unilateral (autorização).
+O que se busca com a desconcentração administrativa?;Maior eficiência e especialização na prestação dos serviços, aproximando a execução das tarefas do cidadão, dentro da mesma estrutura hierárquica.
