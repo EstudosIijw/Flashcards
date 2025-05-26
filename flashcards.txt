@@ -504,3 +504,53 @@ Qual entidade da Administração Indireta é obrigatoriamente uma S.A.?Sociedade
 A exigência de concurso público para admissão de pessoal se aplica a todas as entidades da Administração Indireta?;Sim, para autarquias (estatutários) e para fundações públicas, empresas públicas e sociedades de economia mista (celetistas).
 Qual o instrumento jurídico típico da descentralização por delegação a particulares?;Contrato administrativo (concessão, permissão) ou ato administrativo unilateral (autorização).
 O que se busca com a desconcentração administrativa?;Maior eficiência e especialização na prestação dos serviços, aproximando a execução das tarefas do cidadão, dentro da mesma estrutura hierárquica.
+Qual o conceito de Ato Administrativo para Hely Lopes Meirelles?;Manifestação unilateral de vontade da Administração Pública que, agindo nessa qualidade, tem por fim imediato adquirir, resguardar, transferir, modificar, extinguir e declarar direitos, ou impor obrigações aos administrados ou a si própria.
+O que a banca Cebraspe costuma exigir sobre o conceito de Ato Administrativo?;Entendimento de que é manifestação produtora de efeitos jurídicos sob regime de direito público; distinção de atos da Administração.
+Dê um exemplo real robusto de Ato Administrativo.;Nomeação de candidato aprovado em concurso da Polícia Federal; aplicação de multa de trânsito por PRF.
+Qual a diferença entre ato administrativo e fato administrativo?;Ato administrativo é manifestação de vontade; fato administrativo é acontecimento que produz efeitos jurídicos no campo administrativo sem manifestação de vontade.
+Quais são os cinco requisitos do Ato Administrativo (COFIFOB)?;Competência; Finalidade; Forma; Motivo; Objeto.
+O que é o requisito Competência do ato administrativo?;Poder legal atribuído ao agente público para a prática do ato.
+O que ocorre se um ato for praticado por agente incompetente?;O ato é inválido por vício de competência.
+O que é o requisito Finalidade do ato administrativo?;Resultado de interesse público que o ato deve alcançar, conforme definido em lei.
+O que é desvio de finalidade no ato administrativo?;Ocorre quando o agente pratica o ato visando fim diverso daquele previsto em lei.
+O que é o requisito Forma do ato administrativo?;Modo pelo qual o ato se exterioriza; seu revestimento exterior, geralmente escrito.
+Qual a consequência da inobservância da forma prescrita em lei para um ato administrativo?;Geralmente acarreta a nulidade do ato.
+O que é o requisito Motivo do ato administrativo?;Situação de fato e de direito que autoriza ou determina a prática do ato.
+O que estabelece a Teoria dos Motivos Determinantes?;Vincula a validade do ato à veracidade e legalidade dos motivos declarados, mesmo que a motivação não fosse obrigatória.
+O que é o requisito Objeto (ou Conteúdo) do ato administrativo?;Efeito jurídico imediato que o ato produz; deve ser lícito, possível, certo e moral.
+Quais são os principais atributos do Ato Administrativo?;Presunção de Legitimidade e Veracidade; Autoexecutoriedade; Imperatividade (e Tipicidade para alguns doutrinadores).
+O que significa a Presunção de Legitimidade e Veracidade do ato administrativo?;Atos são presumidos verdadeiros e conformes à lei até prova em contrário (presunção juris tantum), invertendo o ônus da prova.
+O que é a Autoexecutoriedade do ato administrativo?;Permite à Administração executar seus próprios atos diretamente, sem prévia autorização do Poder Judiciário, em certas situações.
+Todo ato administrativo possui autoexecutoriedade?;Não, a autoexecutoriedade deve decorrer de lei ou de situações de urgência.
+O que é a Imperatividade (ou Coercibilidade) do ato administrativo?;Característica pela qual os atos administrativos podem impor obrigações a terceiros, independentemente da concordância destes.
+O que é a Tipicidade do ato administrativo, segundo alguns doutrinadores?;Atributo pelo qual o ato administrativo deve corresponder a figuras previamente definidas pela lei como aptas a produzir determinados resultados.
+Como se classificam os atos administrativos quanto aos destinatários?;Gerais (ou Normativos) e Individuais (ou Específicos).
+Qual a diferença entre atos gerais e individuais quanto aos destinatários?;Gerais alcançam uma generalidade de pessoas sem destinatários determinados; Individuais dirigem-se a destinatários certos ou situações concretas.
+Como se classificam os atos administrativos quanto ao alcance ou âmbito de aplicação?;Internos e Externos.
+Como se classificam os atos administrativos quanto à formação da vontade?;Simples; Compostos; Complexos.
+Qual a diferença entre ato composto e ato complexo?;Ato composto: vontade de um órgão principal, mas depende da aprovação/visto de outro para produzir efeitos. Ato complexo: resulta da conjugação de vontades de dois ou mais órgãos ou autoridades diferentes, que se unem para formar um ato único.
+Como se classificam os atos administrativos quanto à liberdade de decisão (margem de apreciação)?;Vinculados e Discricionários.
+O que caracteriza um ato administrativo vinculado?;A lei estabelece todos os requisitos e condições para sua prática, não havendo margem de liberdade (conveniência e oportunidade) para o administrador.
+O que caracteriza um ato administrativo discricionário?;A lei deixa uma margem de liberdade para o administrador decidir sobre a conveniência, oportunidade e, às vezes, o conteúdo do ato, dentro dos limites legais.
+Como se classificam os atos administrativos quanto aos efeitos?;Constitutivos; Declaratórios (ou Enunciativos); Modificativos; Extintivos (ou Desconstitutivos).
+O que são Atos Normativos? Dê um exemplo.;Espécie de ato que contém comandos gerais e abstratos, visando à correta aplicação da lei. Ex: decretos regulamentares, resoluções, instruções normativas.
+O que são Atos Ordinatórios? Dê um exemplo.;Espécie de ato que visa disciplinar o funcionamento interno da Administração e a conduta funcional de seus agentes. Ex: portarias de designação, ordens de serviço, circulares internas.
+O que são Atos Negociais? Dê um exemplo.;Espécie de ato que contém uma declaração de vontade da Administração coincidente com a pretensão do particular, conferindo direitos ou vantagens. Ex: licença, autorização, permissão.
+Qual a diferença principal entre Licença e Autorização como espécies de atos administrativos?;Licença é ato vinculado e definitivo; Autorização é ato discricionário e precário.
+O que é uma Licença como espécie de ato administrativo?;Ato negocial vinculado e definitivo pelo qual a Administração faculta ao particular o exercício de um direito subjetivo, preenchidos os requisitos legais.
+O que é uma Autorização como espécie de ato administrativo?;Ato negocial discricionário e precário pelo qual a Administração consente que o particular realize atividade de predominante interesse dele ou utilize um bem público.
+O que é uma Permissão como espécie de ato administrativo?;Ato negocial discricionário e precário, geralmente para uso privativo de bem público ou prestação de alguns serviços públicos.
+O que são Atos Enunciativos? Dê um exemplo.;Espécie de ato pelo qual a Administração apenas atesta ou certifica uma situação de fato ou de direito, ou emite uma opinião. Ex: certidões, atestados, pareceres.
+O que são Atos Punitivos? Dê um exemplo.;Espécie de ato que impõe sanções a particulares ou servidores que cometeram infrações administrativas ou descumpriram deveres. Ex: multa administrativa, suspensão de servidor.
+A nomeação de um servidor público que depende da aprovação de um órgão superior para produzir efeitos é qual tipo de ato quanto à formação da vontade?;Ato Composto.
+A nomeação de um Ministro do STF, que requer indicação do Presidente e aprovação do Senado, é qual tipo de ato quanto à formação da vontade?;Ato Complexo.
+O que é a presunção juris tantum no contexto dos atos administrativos?;É a presunção relativa de legitimidade e veracidade, que admite prova em contrário.
+A quem cabe o ônus da prova ao contestar um ato administrativo, devido à sua presunção de legitimidade?;Ao administrado que contesta o ato.
+Qual requisito do ato administrativo se refere ao resultado de interesse público que o ato deve alcançar?;Finalidade.
+Qual requisito do ato administrativo se refere ao poder legal conferido ao agente para praticá-lo?;Competência.
+Qual atributo permite à Administração impor unilateralmente obrigações a terceiros?;Imperatividade.
+A aplicação de uma multa de trânsito é um exemplo de qual espécie de ato administrativo?;Ato Punitivo.
+Uma certidão de tempo de serviço é um exemplo de qual espécie de ato administrativo?;Ato Enunciativo.
+Um decreto regulamentar expedido pelo Presidente da República é um exemplo de qual espécie de ato administrativo?;Ato Normativo.
+A exoneração de um servidor em estágio probatório com base em avaliações fraudulentas apresenta vício em qual requisito?;Motivo (baseado em fato inexistente/falso).
+Se um superior remove um servidor com intenção de puni-lo, e não por necessidade do serviço, qual vício ocorre?;Desvio de Finalidade (vício no requisito Finalidade).
