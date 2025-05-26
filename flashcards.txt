@@ -640,3 +640,34 @@ Qual o tipo de vínculo do empregado público com a Administração?;Vínculo de
 A contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público (art. 37, IX, CF) gera vínculo de cargo ou emprego público?;Não, o contratado exerce função pública, mas não ocupa cargo nem emprego público. Seu regime é especial, definido em lei.
 Um particular que atua como mesário eleitoral é considerado que tipo de agente público?;Agente honorífico (particular em colaboração com o Estado).
 A investidura em cargo ou emprego público depende de aprovação em concurso. Quais as exceções constitucionais?;Cargos em comissão declarados em lei de livre nomeação e exoneração; contratação temporária para atender a excepcional interesse público.
+O que são poderes administrativos?;Prerrogativas instrumentais da Administração Pública para atingir o interesse público, sendo poderes-deveres.
+Qual o principal objetivo do poder hierárquico?;Organizar a estrutura interna da Administração, estabelecendo relações de coordenação e subordinação entre órgãos e agentes.
+No poder hierárquico, um superior pode anular atos de um subordinado?;Sim, pode anular atos ilegais e revogar atos inconvenientes ou inoportunos, respeitados os direitos adquiridos.
+O que são delegação e avocação no âmbito do poder hierárquico?;Delegação é a transferência de atribuições a um subordinado (salvo competência exclusiva). Avocação é o ato excepcional de um superior chamar para si atribuições de um subordinado.
+O poder hierárquico manifesta-se predominantemente em qual âmbito?;Interno à Administração Pública.
+Qual a finalidade do poder disciplinar?;Apurar infrações e aplicar sanções a agentes públicos e a particulares com vínculo jurídico específico com a Administração.
+A aplicação de uma sanção disciplinar exige qual procedimento?;A instauração de processo administrativo disciplinar (PAD) ou sindicância, assegurando contraditório e ampla defesa.
+O poder disciplinar é um poder vinculado ou discricionário?;A aplicação da sanção, uma vez apurada a falta, é um dever (vinculado), podendo haver discricionariedade na escolha da penalidade dentro dos limites legais.
+As sanções administrativas, civis e penais são dependentes entre si?;Não, são independentes e podem ser cumuladas.
+Quem exerce o poder regulamentar e qual seu principal instrumento?;O Chefe do Poder Executivo (Presidente, Governadores, Prefeitos), por meio de decretos e regulamentos.
+Qual a principal função do poder regulamentar?;Garantir a fiel execução das leis, detalhando-as sem inovar na ordem jurídica.
+Um decreto regulamentar pode criar direitos ou obrigações não previstos em lei?;Não, o poder regulamentar é subordinado à lei e não pode contrariá-la nem ir além do necessário para sua execução.
+O que é o poder de polícia?;A faculdade da Administração de condicionar e restringir o uso de bens, atividades e direitos individuais em benefício da coletividade ou do Estado.
+Quais são os principais atributos do poder de polícia?;Discricionariedade (regra), autoexecutoriedade e coercibilidade.
+O que significa a autoexecutoriedade do poder de polícia?;A Administração pode executar suas decisões por meios próprios, sem prévia autorização judicial, em casos de urgência ou previsão legal.
+Qual o fundamento do poder de polícia?;A supremacia do interesse público sobre o particular e a necessidade de garantir a ordem e o bem-estar social.
+O que configura o uso regular do poder administrativo?;Quando o agente público atua nos limites de sua competência, observando a finalidade legal e o interesse público.
+O que é abuso de poder?;O exercício ilegítimo das prerrogativas administrativas, configurando ilegalidade.
+Quais são as duas espécies de abuso de poder?;Excesso de poder e desvio de finalidade (ou desvio de poder).
+Quando ocorre o excesso de poder?;Quando o agente público atua extrapolando os limites de sua competência legal. O vício está na competência.
+Quando ocorre o desvio de finalidade (ou desvio de poder)?;Quando o agente, embora competente, pratica o ato com finalidade diversa da prevista em lei ou do interesse público. O vício está na finalidade.
+Um Secretário Municipal que determina a interdição de um estabelecimento comercial por vingança pessoal, mesmo que o local tenha pequenas irregularidades sanáveis, comete qual tipo de abuso de poder?;Desvio de finalidade, pois a intenção não é o interesse público da saúde ou segurança, mas a perseguição pessoal.
+Um fiscal de posturas que não tem competência para aplicar multas ambientais, mas o faz, comete qual tipo de abuso de poder?;Excesso de poder, pois atua fora de sua esfera de competência.
+Qual a consequência de um ato administrativo praticado com abuso de poder?;A sua anulação e a responsabilização do agente público nas esferas administrativa, civil e penal, conforme o caso.
+A Lei nº 9.784/99 trata de quais aspectos relevantes aos poderes administrativos?;Regula o processo administrativo federal, incluindo disposições sobre delegação e avocação de competências.
+A Lei nº 8.112/90 é fundamental para o estudo de qual poder administrativo?;Poder Disciplinar, pois estabelece o regime jurídico dos servidores públicos civis da União, incluindo o processo administrativo disciplinar.
+O poder regulamentar pode tratar de matéria reservada à lei em sentido formal?;Não, o poder regulamentar não pode invadir a reserva legal, ou seja, matérias que a Constituição exige sejam tratadas por lei.
+A fiscalização sanitária de alimentos pela ANVISA é um exemplo de qual poder administrativo?;Poder de Polícia.
+A aplicação de uma suspensão a um servidor público federal após regular PAD é manifestação de qual poder?;Poder Disciplinar.
+A edição de um decreto pelo Presidente da República detalhando os procedimentos para a execução de uma nova lei federal é exemplo de qual poder?;Poder Regulamentar.
+A organização interna de um Ministério, com a definição das atribuições de cada secretaria, decorre de qual poder?;Poder Hierárquico.
