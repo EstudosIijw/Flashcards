@@ -609,3 +609,34 @@ Um particular que induza ou concorra dolosamente para a prática de ato de impro
 Agentes honoríficos, como mesários eleitorais, possuem vínculo empregatício com o Estado?;Não. Geralmente atuam transitoriamente, sem vínculo empregatício ou remuneração habitual (podendo haver um pro labore).
 Quem são os agentes delegados?;São particulares que recebem a incumbência da execução de atividade, obra ou serviço público, por sua conta e risco, mas sob fiscalização do Estado (ex: concessionários de serviços públicos).
 A nomeação é a única forma de provimento de cargo público prevista na Lei nº 8.112/90?;Não. A Lei 8.112/90 prevê diversas formas de provimento, como promoção, readaptação, reversão, aproveitamento, reintegração e recondução, além da nomeação.
+Qual o conceito amplo de agente público conforme a doutrina majoritária?;Toda pessoa física que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função pública.
+Segundo a Lei de Improbidade Administrativa (Lei 8.429/92), quem é considerado agente público?;O agente político, o servidor público e todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nas entidades da Administração.
+Quais são as principais espécies de agentes públicos segundo a doutrina tradicional?;Agentes políticos, servidores públicos (ou estatais), militares e particulares em colaboração com o Poder Público.
+Quem são os agentes políticos?;Os componentes do primeiro escalão do governo, responsáveis pela formulação das diretrizes governamentais e atuação com base na Constituição. Ex: Chefes do Executivo, membros do Legislativo, Ministros de Estado, Secretários.
+Membros da Magistratura e do Ministério Público são classificados como que espécie de agente público pela doutrina majoritária e Cebraspe?;Agentes políticos.
+Como se subdividem os servidores públicos em sentido estrito (servidores estatais)?;Servidores estatutários, empregados públicos e servidores temporários.
+Quem são os servidores estatutários?;Ocupantes de cargos públicos efetivos, regidos por estatuto próprio (ex: Lei 8.112/90), com vínculo de natureza legal e institucional com o Estado.
+Quem são os empregados públicos?;Ocupantes de empregos públicos, contratados sob o regime da Consolidação das Leis do Trabalho (CLT), com vínculo contratual, atuando principalmente em empresas públicas e sociedades de economia mista.
+Quem são os servidores temporários?;Contratados por tempo determinado para atender a necessidade temporária de excepcional interesse público, conforme art. 37, IX, da CF/88, exercendo função pública.
+Qual o regime jurídico dos militares?;Regime jurídico próprio, estatutário especial, dadas as peculiaridades de suas funções.
+O que são agentes honoríficos? Cite um exemplo.;Particulares que colaboram com o Estado exercendo uma função pública relevante (munus público), geralmente de forma transitória e sem remuneração. Ex: mesário eleitoral, jurado.
+O que são agentes delegados? Cite um exemplo.;Particulares que recebem a incumbência de exercer determinada atividade ou serviço público por sua conta e risco, mediante remuneração paga pelos usuários do serviço. Ex: concessionários e permissionários de serviços públicos, tabeliães.
+O que é cargo público?;Unidade de lugar na estrutura administrativa, criada por lei, com denominação própria, atribuições e responsabilidades específicas e estipêndio correspondente.
+Como são criados os cargos públicos?;Por lei de iniciativa privativa do Chefe do Executivo para cargos no seu âmbito, ou do Legislativo e Judiciário nos seus respectivos âmbitos.
+Qual o regime jurídico dos ocupantes de cargos públicos?;Estatutário.
+O que é emprego público?;Núcleo de encargos de trabalho permanentes a serem preenchidos por agentes contratados sob o regime da CLT para desempenhá-los.
+Qual o regime jurídico dos ocupantes de empregos públicos?;Celetista (CLT), com as derrogações necessárias impostas pelo regime jurídico-administrativo.
+Onde predominam os empregos públicos?;Empresas públicas, sociedades de economia mista e suas subsidiárias, e fundações públicas de direito privado.
+O que é função pública em sentido amplo?;A própria atividade exercida pelo agente, o conjunto de atribuições.
+Pode existir função pública sem que haja um cargo ou emprego público correspondente? Cite um exemplo.;Sim. Ex: função exercida por contratados temporariamente (art. 37, IX, CF/88) ou funções de confiança.
+Qual a regra geral para investidura em cargo ou emprego público?;Aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego.
+O que são cargos em comissão?;São cargos de livre nomeação e exoneração, destinados apenas às atribuições de direção, chefia e assessoramento, conforme art. 37, II e V, da CF/88.
+O que são funções de confiança?;São exercidas exclusivamente por servidores ocupantes de cargo efetivo e destinam-se apenas às atribuições de direção, chefia e assessoramento, conforme art. 37, V, da CF/88.
+Qual a diferença fundamental no provimento de cargos em comissão e funções de confiança quanto ao vínculo prévio do nomeado?;Funções de confiança são exclusivas de servidores de cargo efetivo; cargos em comissão podem ser preenchidos por servidores de carreira ou não, nos termos da lei.
+Servidores ocupantes de cargo público efetivo podem adquirir estabilidade?;Sim, após 3 anos de efetivo exercício e aprovação em avaliação especial de desempenho, conforme art. 41 da CF/88.
+Empregados públicos de empresas públicas e sociedades de economia mista adquirem a estabilidade do art. 41 da CF/88?;Não, pois são regidos pela CLT, mas sua demissão deve ser motivada (jurisprudência do STF e TST).
+Qual o tipo de vínculo do servidor estatutário com a Administração?;Vínculo de natureza legal, estatutária ou institucional.
+Qual o tipo de vínculo do empregado público com a Administração?;Vínculo de natureza contratual trabalhista (CLT).
+A contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público (art. 37, IX, CF) gera vínculo de cargo ou emprego público?;Não, o contratado exerce função pública, mas não ocupa cargo nem emprego público. Seu regime é especial, definido em lei.
+Um particular que atua como mesário eleitoral é considerado que tipo de agente público?;Agente honorífico (particular em colaboração com o Estado).
+A investidura em cargo ou emprego público depende de aprovação em concurso. Quais as exceções constitucionais?;Cargos em comissão declarados em lei de livre nomeação e exoneração; contratação temporária para atender a excepcional interesse público.
