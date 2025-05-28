@@ -814,3 +814,36 @@ Qual a importância da Teoria da Atividade para o tempo do crime?;Aferir imputab
 Qual a importância da Teoria da Ubiquidade para o lugar do crime?;Definir se a lei brasileira é aplicável (territorialidade) e fixar a competência territorial do juízo.
 Crimes contra a administração pública, por quem está a seu serviço, cometidos no estrangeiro, sujeitam-se a qual tipo de extraterritorialidade?;Incondicionada (Art. 7º, I, c, CP).
 Crimes que por tratado ou convenção o Brasil se obrigou a reprimir, cometidos no estrangeiro, são hipótese de qual tipo de extraterritorialidade?;Condicionada (Art. 7º, II, a, CP).
+O que é fato típico?;É o primeiro elemento do crime, consistindo na conduta humana (ação ou omissão) que se amolda perfeitamente a um tipo penal incriminador.
+Quais são os elementos do fato típico?;Conduta, Resultado Naturalístico (nem sempre presente), Nexo de Causalidade e Tipicidade.
+O que é conduta no fato típico?;É toda ação ou omissão humana, consciente e voluntária, dirigida a uma finalidade.
+Diferencie ação de omissão como condutas.;Ação é um comportamento positivo (fazer); Omissão é um comportamento negativo (não fazer o que a lei determina).
+O que é omissão própria? Dê um exemplo.;É aquela em que o tipo penal descreve uma omissão. Ex: Omissão de socorro (art. 135 do CP).
+O que é omissão imprópria (ou comissiva por omissão)?;É quando o agente tinha o dever legal de agir para evitar o resultado e não o fez, respondendo pelo resultado (art. 13, §2º do CP). Ex: Mãe que não alimenta o filho, causando sua morte.
+O que é resultado naturalístico?;É a modificação no mundo exterior provocada pela conduta.
+Diferencie crimes materiais, formais e de mera conduta.;Materiais: exigem resultado naturalístico para consumação (ex: homicídio). Formais: resultado previsto, mas não exigido para consumação (ex: extorsão mediante sequestro). Mera Conduta: tipo descreve apenas a conduta (ex: porte ilegal de arma).
+O que é nexo de causalidade e qual teoria é adotada?;É o vínculo entre a conduta e o resultado naturalístico. Adota-se a teoria da equivalência dos antecedentes causais (conditio sine qua non) - Art. 13, caput, do CP.
+O que é tipicidade?;É a adequação perfeita da conduta praticada pelo agente ao modelo abstrato previsto na lei penal.
+Diferencie tipicidade formal de tipicidade material.;Formal: mera correspondência entre o fato e a descrição legal. Material: exige também que a conduta seja relevante e ofensiva ao bem jurídico.
+Quando um crime é considerado consumado segundo o CP?;Quando nele se reúnem todos os elementos de sua definição legal (Art. 14, I, do CP).
+O que é crime tentado segundo o CP?;Quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente (Art. 14, II, do CP).
+Quais são os três elementos da tentativa?;Início da execução do crime; Não consumação por circunstâncias alheias à vontade do agente; Dolo em relação ao crime consumado.
+Como é punida a tentativa?;Com a pena correspondente ao crime consumado, diminuída de um a dois terços (Art. 14, parágrafo único, do CP).
+Quais são as fases do iter criminis?;Cogitação, Atos Preparatórios, Atos Executórios, Consumação (e Exaurimento, em alguns crimes).
+A partir de qual fase do iter criminis pode haver punição por tentativa?;A partir dos Atos Executórios.
+Diferencie tentativa perfeita (crime falho) de tentativa imperfeita.;Perfeita: agente esgota todos os atos executórios, mas o resultado não ocorre. Imperfeita: agente é impedido de prosseguir nos atos executórios.
+Cite três tipos de crimes que não admitem tentativa.;Crimes culposos (regra); Crimes preterdolosos; Contravenções penais.
+O que é desistência voluntária e qual sua consequência (Art. 15 CP)?;O agente, voluntariamente, desiste de prosseguir na execução. Responde apenas pelos atos já praticados.
+O que é arrependimento eficaz e qual sua consequência (Art. 15 CP)?;O agente, após ter esgotado os atos executórios, impede voluntariamente que o resultado se produza. Responde apenas pelos atos já praticados.
+O que é arrependimento posterior (Art. 16 CP)?;Nos crimes sem violência/grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia/queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços.
+O que é crime impossível (tentativa inidônea) (Art. 17 CP)?;Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime.
+O que é ilicitude (ou antijuridicidade)?;É o segundo substrato do crime, significando que o fato típico também é contrário ao ordenamento jurídico.
+Quais são as 4 causas de exclusão da ilicitude previstas no art. 23 do CP?;Estado de necessidade; Legítima defesa; Estrito cumprimento de dever legal; Exercício regular de direito.
+O que é estado de necessidade (Art. 24 CP)?;Pratica o fato para salvar de perigo atual, que não provocou por sua vontade, nem podia de outro modo evitar, direito próprio ou alheio, cujo sacrifício não era razoável exigir-se.
+O que é legítima defesa (Art. 25 CP)?;Quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.
+O que é estrito cumprimento de dever legal?;Age no estrito cumprimento de um dever imposto por lei. Ex: Policial que usa força moderada para prender.
+O que é exercício regular de direito?;Ocorre quando alguém exerce uma prerrogativa ou faculdade permitida em lei. Ex: Cirurgia médica com consentimento.
+O que é excesso punível nas excludentes de ilicitude (Art. 23, parágrafo único, CP)?;Quando o agente, inicialmente amparado pela excludente, ultrapassa os limites da permissão legal, respondendo pelo resultado decorrente desse excesso.
+Diferencie excesso doloso de excesso culposo.;Doloso: agente ultrapassa os limites conscientemente e voluntariamente. Culposo: agente ultrapassa os limites por imprudência, negligência ou imperícia.
+Qual a consequência do excesso doloso?;O agente responde pelo resultado a título de dolo.
+Qual a consequência do excesso culposo?;O agente responde pelo resultado a título de culpa, se houver previsão legal para o crime culposo.
