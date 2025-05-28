@@ -789,3 +789,28 @@ Pode o Ministério Público arquivar diretamente o inquérito policial se entend
 A colaboração premiada, para ser válida, precisa observar quais princípios em relação ao colaborador?;Voluntariedade, legalidade, contraditório (diferido) e devido processo legal.
 A vedação às provas ilícitas (art. 5º, LVI, CF) é uma garantia fundamental decorrente de qual princípio maior?;Princípio do Devido Processo Legal.
 A quem compete, em regra, a ação penal nos crimes de ação penal pública?;Ao Ministério Público, titular da ação penal pública (Princípio da Oficialidade e da Obrigatoriedade/Legalidade da Ação Penal).
+Qual o princípio geral que rege a aplicação da lei penal no tempo?;Tempus regit actum (o tempo rege o ato).
+O que significa abolitio criminis segundo o Art. 2º do CP?;Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando a execução e os efeitos penais da sentença condenatória.
+A lei penal posterior mais benéfica retroage para alcançar fatos anteriores?;Sim, a lei posterior que de qualquer modo favorecer o agente aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado (Art. 2º, parágrafo único, CP).
+A lei penal posterior mais gravosa (novatio legis in pejus) retroage?;Não, a lei penal não retroagirá, salvo para beneficiar o réu (Art. 5º, XL, CF).
+Leis penais temporárias e excepcionais são ultra-ativas?;Sim, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplicam-se ao fato praticado durante sua vigência (Art. 3º CP).
+Conforme a Súmula 711 do STF, qual lei se aplica ao crime continuado ou permanente se houver sucessão de leis?;A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigência é anterior à cessação da continuidade ou da permanência.
+Qual teoria o Código Penal adota para definir o TEMPO DO CRIME (Art. 4º)?;Teoria da Atividade (considera-se praticado o crime no momento da ação ou omissão).
+Qual teoria o Código Penal adota para definir o LUGAR DO CRIME (Art. 6º)?;Teoria da Ubiquidade ou Mista (considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado).
+Qual o princípio geral que rege a aplicação da lei penal no espaço (Art. 5º CP)?;Princípio da Territorialidade.
+O que é considerado território nacional por extensão ou equiparação para fins de aplicação da lei penal (Art. 5º, §1º CP)?;Embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro, onde quer que se encontrem; e aeronaves e embarcações brasileiras, mercantes ou de propriedade privada, que se achem no espaço aéreo correspondente ou em alto-mar.
+A territorialidade da lei penal brasileira é absoluta?;Não, é temperada ou mitigada, pois ressalva convenções, tratados e regras de direito internacional.
+Cite uma hipótese de extraterritorialidade INCONDICIONADA da lei penal brasileira (Art. 7º, I CP).;Crimes contra a vida ou a liberdade do Presidente da República.
+Cite outra hipótese de extraterritorialidade INCONDICIONADA da lei penal brasileira (Art. 7º, I CP).;Crimes contra o patrimônio ou a fé pública da União, DF, Estado, Território, Município, empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo Poder Público.
+Crime de genocídio, quando o agente for brasileiro ou domiciliado no Brasil, é caso de qual tipo de extraterritorialidade?;Extraterritorialidade Incondicionada (Art. 7º, I, d, CP).
+Para a aplicação da extraterritorialidade CONDICIONADA (Art. 7º, II CP), qual condição é indispensável referente ao agente?;Entrar o agente no território nacional.
+Na extraterritorialidade CONDICIONADA, o fato precisa ser punível também no país onde foi praticado?;Sim, como regra (dupla incriminação), salvo exceções legais ou de tratados.
+Um crime praticado por brasileiro no exterior pode ser julgado no Brasil, mesmo não sendo hipótese do Art. 7º, I CP?;Sim, pela extraterritorialidade condicionada (Art. 7º, II, b, CP), desde que preenchidas as condições do §2º do Art. 7º.
+Quais as DUAS condições ADICIONAIS para a extraterritorialidade HIPERCONDICIONADA (Art. 7º, §3º CP) em crimes de estrangeiro contra brasileiro fora do Brasil?;Não ter sido pedida ou ter sido negada a extradição; e ter havido requisição do Ministro da Justiça.
+Como a pena cumprida no estrangeiro afeta a pena imposta no Brasil pelo mesmo crime (Art. 8º CP)?;Atenua a pena imposta no Brasil, quando diversas, ou nela é computada, quando idênticas.
+Para que serve a homologação de sentença penal estrangeira pelo STJ (Art. 9º CP)?;Para obrigar o condenado à reparação do dano, a restituições e a outros efeitos civis; ou para sujeitá-lo a medida de segurança.
+O que ocorre com os efeitos PENAIS da sentença condenatória em caso de abolitio criminis?;Cessam todos os efeitos penais. Os efeitos civis podem permanecer.
+Qual a importância da Teoria da Atividade para o tempo do crime?;Aferir imputabilidade, lei penal aplicável e contagem da prescrição.
+Qual a importância da Teoria da Ubiquidade para o lugar do crime?;Definir se a lei brasileira é aplicável (territorialidade) e fixar a competência territorial do juízo.
+Crimes contra a administração pública, por quem está a seu serviço, cometidos no estrangeiro, sujeitam-se a qual tipo de extraterritorialidade?;Incondicionada (Art. 7º, I, c, CP).
+Crimes que por tratado ou convenção o Brasil se obrigou a reprimir, cometidos no estrangeiro, são hipótese de qual tipo de extraterritorialidade?;Condicionada (Art. 7º, II, a, CP).
