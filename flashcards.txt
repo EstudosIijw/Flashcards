@@ -754,3 +754,38 @@ O que significa o princípio da Indisponibilidade do Interesse Público?_PRINCIP
 A desapropriação por utilidade pública, mediante justa e prévia indenização, é uma manifestação de qual princípio basilar do regime jurídico-administrativo?_DESAPROPRIACAO_PRINCIPIO_BASILAR;Do princípio da Supremacia do Interesse Público sobre o Privado.
 A Lei de Acesso à Informação (Lei nº 12.527/2011) é um importante instrumento para a concretização de qual princípio administrativo expresso?_LAI_PRINCIPIO;Do princípio da Publicidade.
 Um ato administrativo que, embora legal, se mostra inoportuno e contrário aos objetivos atuais da Administração, pode ser desfeito? Como?_ATO_LEGAL_INOPORTUNO_DESFAZIMENTO;Sim, pode ser revogado pela própria Administração com base no princípio da Autotutela, por razões de conveniência e oportunidade (mérito administrativo).
+Qual princípio penal estabelece que não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal?;Princípio da Legalidade (ou Reserva Legal)
+Onde o Princípio da Legalidade está previsto na Constituição Federal e no Código Penal?;Art. 5º, XXXIX, da CF e Art. 1º do Código Penal
+Uma lei penal mais severa pode retroagir para punir um fato ocorrido antes de sua vigência?;Não, a lei penal não retroage, salvo para beneficiar o réu (Princípio da Irretroatividade da Lei Penal mais gravosa).
+O que significa o Princípio da Anterioridade da Lei Penal?;A lei penal deve existir antes da prática da conduta para que esta seja considerada crime.
+A pena pode ultrapassar a pessoa do condenado, atingindo seus familiares?;Não, devido ao Princípio da Intranscendência da Pena (ou Pessoalidade), previsto no Art. 5º, XLV, da CF.
+O que o Princípio da Individualização da Pena exige do juiz ao fixar a sanção?;Que a pena seja adequada às características do criminoso e às circunstâncias do crime (Art. 5º, XLVI, da CF).
+É possível a condenação penal sem que o agente tenha agido com dolo ou culpa?;Não, pois vige o Princípio da Culpabilidade (nullum crimen sine culpa).
+Quais tipos de pena são vedados pelo Princípio da Humanidade das Penas?;Penas cruéis, de tortura, degradantes, de trabalhos forçados ou de banimento (Art. 5º, XLVII, da CF).
+Quando o Direito Penal deve ser utilizado, segundo o Princípio da Intervenção Mínima (Ultima Ratio)?;Apenas quando outros ramos do Direito não forem suficientes para proteger os bens jurídicos mais importantes.
+O Direito Penal tutela todos os bens jurídicos existentes?;Não, apenas os mais relevantes e contra as lesões mais graves, conforme o Princípio da Fragmentariedade.
+Para que haja crime, basta a intenção do agente, mesmo que sua conduta não lese ou exponha a perigo um bem jurídico?;Não, é necessário que a conduta lese ou exponha a perigo de lesão um bem jurídico tutelado, conforme o Princípio da Lesividade (ou Ofensividade).
+Uma conduta formalmente típica, mas socialmente aceita e tolerada, pode deixar de ser considerada criminosa? Qual princípio se relaciona a isso?;Sim, em casos excepcionais, pelo Princípio da Adequação Social (aplicado com cautela).
+Qual princípio processual penal garante que ninguém será privado da liberdade ou de seus bens sem um processo conduzido conforme a lei?;Princípio do Devido Processo Legal (Art. 5º, LIV, da CF).
+O que compreende o Princípio do Contraditório no processo penal?;O direito das partes de serem informadas de todos os atos processuais e de reagir a eles.
+O que assegura o Princípio da Ampla Defesa ao acusado?;O direito de se defender de todas as formas permitidas em lei, com todos os meios e recursos inerentes, incluindo um defensor técnico.
+Até quando um acusado é considerado inocente, segundo o Princípio da Presunção de Inocência?;Até o trânsito em julgado de sentença penal condenatória (Art. 5º, LVII, da CF).
+O ônus de provar a culpa do réu no processo penal é da defesa ou da acusação?;Da acusação, devido ao Princípio da Presunção de Inocência.
+O que o Princípio do Juiz Natural impede?;A criação de tribunais de exceção ou a designação de juízes específicos para um caso (Art. 5º, LIII, da CF).
+Se um juiz tiver interesse pessoal na causa, o que ele deve fazer em observância ao Princípio da Imparcialidade?;Declarar-se suspeito ou impedido de julgar o caso.
+No processo penal, o juiz está restrito apenas às provas apresentadas pelas partes, ou pode buscar ativamente a verdade dos fatos?;O juiz pode buscar ativamente a verdade, determinando provas de ofício, devido ao Princípio da Verdade Real (ou Verdade Material).
+Os atos processuais são sigilosos ou públicos, em regra?;Em regra, são públicos, conforme o Princípio da Publicidade dos Atos Processuais (Art. 5º, LX, e Art. 93, IX, da CF).
+Quando o segredo de justiça pode ser decretado em um processo penal?;Para preservar a intimidade dos envolvidos ou o interesse social/público, como em crimes sexuais.
+O direito de ter uma decisão judicial reexaminada por um órgão superior é garantido por qual princípio?;Princípio do Duplo Grau de Jurisdição.
+O acusado é obrigado a responder às perguntas durante o interrogatório ou a fornecer material para exames que possam incriminá-lo?;Não, devido ao Princípio do Nemo Tenetur se Detegere (direito ao silêncio e à não autoincriminação - Art. 5º, LXIII, da CF).
+O silêncio do acusado durante o interrogatório pode ser interpretado em seu desfavor?;Não, o silêncio não pode ser interpretado em prejuízo da defesa.
+Se, ao final do processo, persistir dúvida razoável sobre a culpa do réu, qual deve ser a decisão judicial, conforme o Princípio do Favor Rei?;O réu deverá ser absolvido (in dubio pro reo).
+O princípio da insignificância (ou bagatela) exclui qual elemento do crime?;A tipicidade material, afastando a relevância penal da conduta, e está relacionado aos princípios da ofensividade e da intervenção mínima.
+A exigência de representação da vítima em certos crimes (ex: ameaça) se relaciona com qual princípio processual penal?;Princípio da Oportunidade (ou Conveniência) da Ação Penal Pública Condicionada.
+A proibição da reformatio in pejus indireta em sede de recurso exclusivo da defesa é uma manifestação de qual princípio?;Princípio da Ampla Defesa e do Duplo Grau de Jurisdição.
+Qual a consequência da violação do Princípio do Juiz Natural?;Nulidade absoluta do processo.
+A Súmula Vinculante nº 11 do STF, que trata do uso de algemas, busca concretizar qual princípio?;Princípio da Dignidade da Pessoa Humana e da Humanidade das Penas, evitando constrangimento desnecessário.
+Pode o Ministério Público arquivar diretamente o inquérito policial se entender ausentes os elementos para a denúncia?;Não, o arquivamento do inquérito policial depende de decisão judicial, conforme o Princípio da Obrigatoriedade da Ação Penal Pública (temperado).
+A colaboração premiada, para ser válida, precisa observar quais princípios em relação ao colaborador?;Voluntariedade, legalidade, contraditório (diferido) e devido processo legal.
+A vedação às provas ilícitas (art. 5º, LVI, CF) é uma garantia fundamental decorrente de qual princípio maior?;Princípio do Devido Processo Legal.
+A quem compete, em regra, a ação penal nos crimes de ação penal pública?;Ao Ministério Público, titular da ação penal pública (Princípio da Oficialidade e da Obrigatoriedade/Legalidade da Ação Penal).
