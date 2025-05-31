@@ -885,3 +885,19 @@ Qual o conceito de casa para fins de proteção no crime de violação de domic�
 Qual a conduta principal no crime de invasão de dispositivo informático (Art. 154-A CP) conforme a Lei Carolina Dieckmann?;Invadir dispositivo informático alheio conectado ou não à rede de computadores mediante violação indevida de mecanismo de segurança e com o fim de obter adulterar ou destruir dados ou informações ou instalar vulnerabilidades para obter vantagem ilícita.
 No crime de perseguição (stalking - Art. 147-A CP) a ação penal é de que natureza?;Pública condicionada à representação da vítima.
 A retratação é admitida em quais crimes contra a honra e até que momento?;Na calúnia e na difamação antes de proferida a sentença.
+Qual o verbo (núcleo do tipo) do crime de furto previsto no Art. 155 do Código Penal?;Subtrair, para si ou para outrem, coisa alheia móvel.
+O que diferencia o crime de furto do crime de apropriação indébita?;No furto, o agente não possui a posse lícita do bem. Na apropriação indébita, o agente já tem a posse lícita e decide não devolver o bem.
+Quais são os 4 vetores do Princípio da Insignificância segundo o STF?;Mínima ofensividade da conduta; Ausência de periculosidade social da ação; Reduzidíssimo grau de reprovabilidade; Inexpressividade da lesão jurídica (MARI).
+O que caracteriza o crime de roubo (Art. 157) e o diferencia do furto?;O meio de execução: o roubo é cometido mediante grave ameaça ou violência à pessoa.
+Quando se consuma o crime de roubo, de acordo com a Súmula 582 do STJ?;Consuma-se com a inversão da posse do bem, ainda que por breve tempo e seguida de perseguição, sendo dispensável a posse mansa e pacífica.
+O que é o crime de latrocínio?;É o roubo qualificado pelo resultado morte (Art. 157, § 3º, II).
+Quando o latrocínio se consuma, segundo a Súmula 610 do STF?;O latrocínio se consuma quando o homicídio acontece, mesmo que o agente não consiga roubar os bens da vítima.
+Qual a principal diferença entre o crime de roubo e o de extorsão?;No roubo, a participação da vítima é dispensável. Na extorsão, a participação da vítima (fazer, não fazer ou tolerar algo) é indispensável para o agente obter a vantagem.
+O crime de extorsão exige que o criminoso consiga a vantagem econômica para ser consumado?;Não. Segundo a Súmula 96 do STJ, o crime de extorsão é formal e se consuma com o constrangimento, independentemente da obtenção da vantagem.
+Qual é o elemento central do crime de estelionato (Art. 171)?;A fraude. O agente induz ou mantém a vítima em erro para obter vantagem ilícita.
+No estelionato, como a vítima entrega o bem ao criminoso?;A vítima entrega o bem de forma voluntária, pois foi enganada pela fraude. Sua vontade está viciada.
+Qual a regra geral da ação penal para o crime de estelionato após o Pacote Anticrime?;A regra é a Ação Penal Pública Condicionada à Representação do ofendido.
+Cite uma exceção à regra de representação no crime de estelionato.;Quando a vítima for a Administração Pública, criança ou adolescente, pessoa com deficiência mental ou maior de 70 anos.
+Um agente que força a vítima a passar a senha do cartão para ele mesmo realizar o saque comete qual crime?;Roubo, pois a participação da vítima (passar a senha) é um ato único e o agente subtrai o valor.
+Um agente que força a vítima a ir até o caixa eletrônico e realizar um saque para ele comete qual crime?;Extorsão, pois a colaboração da vítima (ir até o local e realizar a ação de sacar) é indispensável e contínua.
+O uso de arma de brinquedo para intimidar a vítima configura o crime de roubo?;Sim, configura a grave ameaça do roubo simples, mas não a causa de aumento de pena (majorante) do emprego de arma.
