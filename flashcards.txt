@@ -1114,3 +1114,23 @@ No contexto do direito processual penal, a acareação tem boa efetividade na pr
 No contexto do direito processual penal, o que significa dizer que a acareação reduz-se a termo?;Significa que todo o ato da acareação deve ser documentado por escrito, registrando as perguntas e respostas
 No contexto do direito processual penal, quando uma das pessoas a ser acareada reside em outra comarca?;Expede-se carta precatória para a autoridade local realizar a diligência, transcrevendo as declarações divergentes
 No contexto do direito processual penal, qual é o melhor momento para realizar a acareação?;Segundo o STF, após a colheita de toda a prova oral, embora possa ser requerida assim que surgir a divergência
+No contexto de direito processual penal, como é definido indício pelo Código de Processo Penal?;Circunstância conhecida e provada, que, tendo relação com o fato, autorize, por indução, concluir-se a existência de outra ou outras circunstâncias
+No contexto de direito penal, quais são os quatro elementos essenciais que compõem o conceito de indício?;Circunstância conhecida e provada, relação com o fato, raciocínio por indução e capacidade de concluir outras circunstâncias
+No contexto de direito processual penal, qual é a diferença entre indício e suspeita?;Indício é circunstância provada com força probatória que autoriza conclusões, enquanto suspeita é mera desconfiança sem força probatória
+No contexto de direito penal, como os indícios são classificados quanto à origem?;Indícios reais ou materiais (baseados em coisas físicas) e indícios pessoais (baseados no comportamento humano)
+No contexto de direito processual penal, como os indícios são classificados quanto à qualidade?;Indícios graves (mais fortes e convincentes), indícios leves (menor força probatória) e indícios veementes (quase chegam à certeza)
+No contexto de direito penal, qual é a força probatória dos indícios em relação à prova direta?;Os indícios têm o mesmo valor probatório da prova direta no sistema de livre convencimento motivado
+No contexto de direito processual penal, é possível condenar alguém baseando-se apenas em indícios?;Sim, desde que sejam indícios múltiplos, coerentes e convergentes que gerem convicção além da dúvida razoável
+No contexto de direito penal, quais são as três características necessárias dos indícios para sustentar uma condenação?;Devem ser múltiplos (não apenas um), coerentes (não se contradizem) e convergentes (apontam para a mesma conclusão)
+No contexto de direito processual penal, um único indício é suficiente para fundamentar uma condenação?;Não, é necessário um conjunto de indícios múltiplos e coerentes
+No contexto de direito penal, o que são indícios reais e cite um exemplo?;São indícios baseados em coisas físicas, como digital do suspeito na arma do crime ou DNA encontrado na cena
+No contexto de direito processual penal, o que são indícios pessoais e cite um exemplo?;São indícios baseados no comportamento humano, como fuga do local do crime ou mentiras contraditórias
+No contexto de direito penal, qual é a diferença entre prova direta e prova indireta?;Prova direta mostra o fato diretamente (ex: testemunha presencial), prova indireta mostra o fato indiretamente através de raciocínio (ex: conjunto de indícios)
+No contexto de direito processual penal, qual é o tipo de raciocínio utilizado para chegar a conclusões através de indícios?;Raciocínio por indução
+No contexto de direito penal, qual é o valor probatório da testemunha de ouvir dizer para fins de indício de autoria?;A jurisprudência entende que não produz depoimento confiável e não serve como indício de autoria
+No contexto de direito processual penal, quais são os três níveis de exigência probatória para prisão, denúncia e condenação?;Prisão preventiva: indícios suficientes; Denúncia: indícios suficientes; Condenação: certeza além da dúvida razoável
+No contexto de direito penal, o que são contraindícios e qual seu efeito?;São indícios contrários à acusação que podem enfraquecer o conjunto probatório
+No contexto de direito processual penal, como o juiz deve analisar os indícios em um processo?;Deve analisar todos os indícios em conjunto, aplicando o sistema de livre convencimento motivado
+No contexto de direito penal, qual é a principal diferença entre indício grave e indício leve?;Indício grave é mais forte e convincente, enquanto indício leve tem menor força probatória
+No contexto de direito processual penal, o que caracteriza um indício veemente?;É o indício que quase chega à certeza, tendo força probatória muito elevada
+No contexto de direito penal, por que é importante que os indícios sejam convergentes?;Porque devem apontar todos para a mesma conclusão, reforçando-se mutuamente para formar convicção
